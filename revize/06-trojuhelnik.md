@@ -126,6 +126,6 @@ Vítek ještě chvíli ležel. Pak řekl, tiše, ke stropu: „Je to v pořádku
 
 Zůstala jsem sama na dece, mezi nohama mě hřáli oba a v hrudi mi něco táhlo a nešlo to zařadit do žádné kolonky.
 
-Ráno přišla od Tomáše zpráva. Bez textu — jen fotka. Vítek ji v noci pořídil tajně telefonem a Tomáš mi ji teď posílal: moje záda a dvě mužské ruce na mých ramenou, ve světle lampy všechno jantarové, jako zalité a zakonzervované. Dárek na rozloučenou od chlapa, který mě tu noc viděl líp než kdokoli, a právě proto odcházel.
+Ráno přišla od Tomáše zpráva. Žádný text — jen jedna fotka. Ta jeho, stará, z úplně prvního focení: kabel v rohu, v centru záběru, a za ním kus Holešovic a ráno. Věc, co není na správným místě, a stejně tam patří. Na rozloučenou mi poslal jediný snímek a vybral zrovna tenhle — a já jsem pochopila, co mi tím říká, líp, než kdyby napsal cokoliv. Že on je ten kabel. Že odchází, protože se zamiloval do prostoru, ve kterém nesmí zůstat zapojený.
 
 Šla jsem v práci na záchod a brečela tam pět minut. Ne ze smutku — z toho, že to bylo skutečný. Skutečnější než cokoli za hrozně dlouho. A poprvé jsem si k té skutečnosti připsala i účet: že za přítomnost, kterou jsem tak chtěla, se platí, a že tentokrát zaplatil někdo jiný než já.
