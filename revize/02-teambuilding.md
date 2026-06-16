@@ -80,7 +80,7 @@ A já jsem ten bod viděla přicházet a nechala ho přijít. To je důležité 
 
 ---
 
-Chodba hotelu, čtvrt na dvanáct. Karta. Dveře 213, ne 214 — moje, ne jeho, to jsem si pohlídala, i v tom líném rozhodování zůstal kus controllingu.
+Chodba hotelu, čtvrt na dvanáct. Šli jsme k němu, ne ke mně — a to jsem si pohlídala. Do svého pokoje bych ho nepustila, protože pustit někoho do vlastních dveří znamená, že tam pak zůstane on, ne ty, a že odcházet musíš ty. K němu jsem mohla kdykoli vstát a jít o patro výš do svého. I v tom líném rozhodování mi zůstal kus controllingu: nechala jsem si otevřená zadní vrátka v podobě vlastní karty od pokoje 213.
 
 Cestou po chodbě jsem si namlouvala, že je to experiment. Namlouvat si to bylo součástí experimentu.
 
@@ -96,7 +96,7 @@ To je ta věc, kterou jsem té noci pochopila, a stálo to za celý ten výlet. 
 
 Funkční. Proběhlo. A nenaučila jsem se o sobě nic, co jsem hledala — kromě toho, že právě tohle to není.
 
-V pět ráno jsem vstala, umyla se hotelovým mýdlem, co vonělo bezpohlavně jako vždycky, a vrátila se do svého pokoje, než se hotel probudil. Koberec na chodbě tlumil kroky tak dokonale, že po mně nezůstala stopa. To mi v tu chvíli připadalo jako přesný popis celé té noci.
+V pět ráno jsem vstala, umyla se v jeho koupelně hotelovým mýdlem, co vonělo bezpohlavně jako vždycky, oblékla se potmě a odešla o patro výš do svého pokoje, než se hotel probudil. Koberec na chodbě tlumil kroky tak dokonale, že po mně nezůstala stopa. To mi v tu chvíli připadalo jako přesný popis celé té noci.
 
 ---
 
