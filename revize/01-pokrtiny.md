@@ -12,7 +12,7 @@ Montoval dvě hodiny a dvanáct minut. Vím to přesně, protože jsem ten čas 
 
 Devět let jsem tu metodu obdivovala. Pak jsem ji přestala vnímat. Teď mi připadá jako klimatizace v autě: funguje, takže si jí nevšímáte, a všimnete si jí, až když přestane — a Martin nepřestává.
 
-Cigarety byly nový. Tedy starý a nový zároveň. Kouřila jsem do osmadvaceti, pak tři roky balíček denně, pak jsem přestala ze dne na den, protože jsem si spočítala, kolik mě to stojí, a to číslo se mi nelíbilo. Sedm let jsem nekouřila. A pak jsem v dubnu zastavila na benzínce na Strossmayerově a koupila Camel Light, protože nic jiného neměli, a já jsem ani nechtěla zrovna Camel, chtěla jsem mít v ruce důvod dívat se z okna místo na lidi.
+Cigarety byly nový. Tedy starý a nový zároveň. Kouřila jsem do osmadvaceti — poslední tři roky balíček denně — a pak jsem ze dne na den přestala, protože jsem si spočítala, kolik mě to ročně stojí, a to číslo se mi nelíbilo. Sedm let jsem nekouřila. Sedm čistých let, jeden po druhém odškrtnutých, až do toho dubna na benzínce. A pak jsem v dubnu zastavila na benzínce na Strossmayerově a koupila Camel Light, protože nic jiného neměli, a já jsem ani nechtěla zrovna Camel, chtěla jsem mít v ruce důvod dívat se z okna místo na lidi.
 
 Nechutnaly mi, jak to u Camelů bývá. O to nešlo. Šlo o ten pohyb — vytáhnout, zapálit, vydechnout —, o to, že na pět minut mám co dělat s rukama a očima, aniž bych musela být užitečná. V práci takové přemýšlení neuznávám. Neúčelné, bez výstupu, nezúčtovatelné. V loftu jsem si ho dovolila. V loftu jsem si dovolila spoustu věcí, které jsem si jinde nedovolila, a tehdy, v dubnu, jsem ještě nevěděla, že právě tohle je celá ta věc.
 
@@ -44,7 +44,7 @@ V rohu vlevo, skoro u stropu, visel kabel.
 
 Elektrický, s plastovou izolací narůžovělou prachem. Bez zástrčky, bez žárovky, bez jediného důvodu tam být. Vedl odněkud nikam. Někdo ho při některé z přestaveb zapomněl odpojit a nikdo jiný ho nepovažoval za dost důležitý na to, aby ho sundal, a tak tam zůstal viset jako interpunkční znaménko ve větě, kterou už nikdo nedočte.
 
-Všimla jsem si ho hned při první prohlídce, ještě s makléřem — to bylo dřív, než Irena umřela, dřív, než byl loft Nelin, kdy jsem ho chodila obhlížet jako možnost, kterou jsem si nemohla dovolit a stejně jsem chodila. Makléř říkal správné věci přesnou kadencí: *vysoké stropy, ta světelnost je výjimečná, elektriku doporučuju předělat, tady je starej rozvod.* A já jsem přikyvovala a celou dobu koukala na ten kabel, protože byl jediná věc v té místnosti, která se nesnažila být k něčemu.
+Všimla jsem si ho hned napoprvé — ten první večer, co jsem si odemkla Nelinými klíči a stála v prázdném prostoru sama. Nela mi předtím do telefonu odříkala, co tu je, jako by mi prodávala byt, který sama nechce: *vysoký stropy, původní okna, ta světelnost je úplně jiná než jinde, elektriku bude potřeba předělat, je tam starej rozvod.* A já jsem chodila po betonu a poslouchala ji jen na půl ucha, protože jsem celou dobu koukala na ten kabel — jedinou věc v té místnosti, která se nesnažila být k něčemu.
 
 Kabel se o nic nesnažil. To mě na něm dostalo. Byl tam prostě proto, že byl, bez funkce, bez ospravedlnění, a nikomu se neomlouval. Firemní audit by ho odepsal jedním řádkem: *majetek bez ekonomické hodnoty, doporučeno k vyřazení.* A přesto visel dál. Existoval navzdory doporučení k vyřazení.
 
