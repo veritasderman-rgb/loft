@@ -6,7 +6,7 @@ Poprvé jsem pracovala.
 
 Přivezla jsem notebook a výkazy a termínový plán na Q3 a seděla u okna a počítala, protože v loftu se mi počítalo líp než v kanceláři. V kanceláři vždycky někdo něco potřebuje a přijde si pro to přesně ve chvíli, kdy držíte myšlenku za ocas. V loftu nepotřeboval nikdo nic. A tu nesedící položku — čtyřicet tisíc, co mě hryzaly od dubna — jsem našla v klidu třetí hodiny, kdy bylo světlo nízké a Holešovice ztichly. Chybné zaokrouhlení ve vzorci na sedmém listu. Drobnost, co posunula celý sloupec. Opravila jsem ji a uslyšela v hlavě ten klik, specifický klik rovnováhy, co nastane, když čísla konečně sednou.
 
-A přistihla jsem se, jak mě napadá: proč tohle nejde dělat s tělem. Najít chybu v zadání a opravit ji a slyšet ten klik. Jenže tělo nepočítá ve sloupcích. Tělo si od pátku pamatovalo jednu věc — jak se nade mnou Tomáš díval, když jsem se mu udělala —, a vrátila se mi ta vzpomínka přesně teď, nad opraveným výkazem, a já jsem musela zavřít notebook a chvíli jen dýchat, protože saldo se mi srovnalo na papíře a v těle se rozhodilo nadobro.
+A přistihla jsem se, jak mě napadá: proč tohle nejde dělat s tělem. Najít chybu v zadání a opravit ji a slyšet ten klik. Jenže tělo nepočítá ve sloupcích. Tělo si pamatovalo jednu jedinou věc ze středečního večera — jak se nade mnou Tomáš díval, když jsem se mu udělala —, a vrátila se mi ta vzpomínka přesně teď, nad opraveným výkazem, a já jsem musela zavřít notebook a chvíli jen dýchat, protože saldo se mi srovnalo na papíře a v těle se rozhodilo nadobro.
 
 Pracovala jsem do sedmi. Pak jsem sbalila a jela domů k Martinovi, který se zeptal, jak bylo, a já řekla *fajn* a myslela na cizí ruce.
 
