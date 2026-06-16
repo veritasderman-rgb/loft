@@ -12,7 +12,7 @@ Terka byla Nelin průběžný nouzový stav — žena ze studií v Brně, vztah 
 
 Otevřela prosecco bez sklenic, napila se rovnou z lahve a podala mi ji. Seděly jsme na parapetu, pily střídavě a dívaly se na Holešovice. Dole někdo na parkovišti vytrvale a špatně hrál na kytaru.
 
-„Terka psala," řekla nakonec. „Po devíti měsících. Že jí chybím."
+„Terka zase psala," řekla nakonec. „Že jí chybím."
 
 „A chybíš jí?"
 
