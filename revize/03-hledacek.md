@@ -114,7 +114,7 @@ Seděla jsem s tím mailem a věděla, co píšu, ještě než jsem to napsala.
 
 ---
 
-Přišel přesně v šest. Bez foťáku.
+Přišel přesně v šest. Batoh přes rameno jako vždycky — ale tentokrát jsem věděla, že nepřišel fotit.
 
 Otevřela jsem a chvíli jsme se na sebe dívali beze slova. V tom tichu nebylo nic nejistého. Oba jsme věděli, proč tu je, a oba jsme se rozhodli to ještě chvíli neříkat nahlas, protože nevyřčené má vlastní napětí a my jsme ho oba chtěli natáhnout do prasknutí.
 
@@ -196,11 +196,11 @@ Chvíli mě studoval těma očima. Pak řekl: „Já jsem fotograf chvil, ne lid
 
 „Nechci být stav s nikým." Řekl to lehce, ale na vteřinu, na jedinou vteřinu, mu něco přejelo přes obličej, co tu lehkost usvědčilo ze lži, a já jsem to viděla a oba jsme předstírali, že ne. To byl první uzel na niti, kterou jsem si tehdy odmítla připustit — že chvíle nejdou vždycky vypnout, když dohrají; že někdy se chvíle zasekne a začne bolet jako trvalý stav, a že platit za to nebudu já.
 
-Oblékl se, sebral batoh, u dveří se otočil. „Pošlu ti fotky," řekl. „Z dneška."
+Oblékl se, sebral batoh. Foťák z něj celý večer ani nevyndal — všimla jsem si toho až teď, batoh opřený u dveří, zip zatažený. U dveří se otočil.
 
-„Tys fotil?"
+„Tys dneska nefotil," řekla jsem.
 
-„Ne dnes. Dneska byl foťák v tašce a já jsem ho nevzal do ruky. Poprvý za hrozně dlouho jsem chtěl být u toho, ne to chytit." Usmál se, a v tom úsměvu byla zase ta vteřina pravdy, kterou rychle schoval. „To bys měla vědět."
+„Ne." Pověsil si batoh na rameno. „Fotím, abych si nechal věci, co se bojím ztratit. Dneska jsem si nechtěl nechat nic. Chtěl jsem to mít celý a pak pustit." Usmál se, a v tom úsměvu byla zase ta vteřina pravdy, kterou rychle schoval. „To bys měla vědět."
 
 Odešel.
 
