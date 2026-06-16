@@ -126,6 +126,6 @@ Karla mi zavolala druhý den, kontrolně. Řekla jsem jí to.
 
 „Jo. Cítila jsem, že víc by bylo moc."
 
-Ticho na lince. Pak: „To je ono. To, co jsem já hledala padesát let, ste vy našla napoprvé. Nezáviďte si to zpětně, že vám to trvalo. Záviďte si, že to vůbec přišlo." Pauza. „A Saško. Ta věta v kuchyni o mlčení. Dneska ste ji použila, i když ste nevěděla, že ji používáte. Slyšela jsem to z toho, jak mluvíte. To se nedá naučit za den. To se buď ve vás stane, nebo ne." Zavěsila.
+Ticho na lince. Pak: „Víte, jak tomu říkám? Patřičné mlčení. Protože mlčení je dvojí, Saško. To první jsem vám vymlouvala v kuchyni — mlčení, který si pleteme se souhlasem, mlčení toho, kdo se bojí říct stop. A pak je tohle druhý: mlčení člověka, kterej ví kdy a jak a nepotřebuje to vykřikovat. To je patřičné mlčení. Vy ste dneska zastavila přesně v něm. To, co jsem já hledala padesát let, ste vy našla napoprvé. Nezáviďte si zpětně, že vám to trvalo. Záviďte si, že to vůbec přišlo." Pauza. „A to se nedá naučit za den. To se ve vás buď stane, nebo ne." Zavěsila.
 
 Seděla jsem v kuchyni s telefonem v ruce. Venku říjnové Holešovice, tramvaj, vzdálený přístav. A já jsem poprvé za celý ten rok necítila, že něco hledám. Cítila jsem, že něco umím — a že to umění se jmenuje vědět, kdy přestat, a že jsem se ho nenaučila u žádného z těch mužů, ale sama, tím nejlevnějším a nejdražším způsobem: že jsem se konečně přestala bát zklamat víc, než jsem se bála ublížit.
