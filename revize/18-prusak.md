@@ -56,7 +56,7 @@ Přišla k baru sama, když jsem tam ještě stála. Ne rozpačitě. S tou samoz
 
 „Jak dlouho sem chodíš?"
 
-„Šestým rokem." Napila se. „Takže když na jaře někdo v kanceláři hodil slovo *loft*, věděla jsem přesně, co to je, protože jsem tě tady jednou v létě zahlídla u schodů. Lidi mysleli, žes koupila zajímavou nemovitost. Já věděla, žes našla zajímavý místo." Krátce se usmála. „Personálně vzato jsem o tobě věděla víc než tvůj vlastní spis."
+„Šestým rokem." Napila se. „Takže když na jaře někdo v kanceláři hodil slovo *loft*, věděla jsem přesně, o kterej jde — ten prostor se v komunitě zná dýl, než tě znám já. A v létě jsem tě tady pak jednou zahlídla u schodů. Lidi mysleli, žes koupila zajímavou nemovitost. Já věděla, žes našla zajímavý místo." Krátce se usmála. „Personálně vzato jsem o tobě věděla víc než tvůj vlastní spis."
 
 „Tos řekla Davidovi."
 

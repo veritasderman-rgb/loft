@@ -64,7 +64,7 @@ Večeřeli jsme u kuchyňského stolu. Maminka přivezla ve sklenici svůj bramb
 
 „Dělám kapra," řekla maminka pevně. „Řekla jsem to loni ve vzteku. Kdo jinej by ho dělal. Táta ho koupí živýho, tři dny plave ve vaně a všichni na něj mluvíme, a pak ho stejně sníme. Tak to u nás chodí." Zapíchla vidličku do salátu. „Jenom letos ho nebudu smažit v tom starým hrnci, ten už protejká."
 
-„Já bych k vám na Štědrej den jel rád," řekl Martin. „Když nebudem překážet."
+„Já bych k vám na toho Štěpána jel rád," řekl Martin. „Když nebudem překážet."
 
 Maminka na něj chvíli koukala. Pak na mě. Pak řekla, spíš ke mně než k němu, ale nahlas, aby to slyšel: „On tě poslouchá, když mluvíš. Všimla sis? Předloni, když jste u nás byli, jsi něco vykládala a on koukal do telefonu. Teď ne. Teď se dívá a čeká, až domluvíš." Nabrala si salát. „To dřív nedělával."
 
@@ -102,7 +102,7 @@ Přespala u nás na gauči a odjížděla ráno. Vyprovázela jsem ji na nádra�
 
 Naskočilo nástupiště. Vzala tašku, tu, co nepustí. Objaly jsme se — maminka objímá krátce a pevně, nikdy dlouho; dlouhé objetí prej znamená, že se něco děje. Odtáhla se, podržela mě za předloktí a podívala se na mě zdola, protože je menší. Nečekala jsem moudro a nedostala ho.
 
-„Hlavně ať víš, co děláš," řekla. „Tys vždycky věděla." Poklepala mě po ruce. „A Martinovi řekni, ať k nám na Štědrej den jede v tom svetru, ne v saku. U nás se sako nenosí."
+„Hlavně ať víš, co děláš," řekla. „Tys vždycky věděla." Poklepala mě po ruce. „A Martinovi řekni, ať k nám na Štěpána jede v tom svetru, ne v saku. U nás se sako nenosí."
 
 Šla k nástupišti, mezi lidi. Ta šedá záda, ta taška. Vlak odjel v 9:32, přesně.
 
