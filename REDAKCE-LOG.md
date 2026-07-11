@@ -1063,3 +1063,87 @@ Dále drobná interpunkce v kap. 31 (čárky před vedlejšími větami u „kde
 - **kap. 33 — Posledně.** Záměrný minimalismus, závěrečná tečka rukopisu. Nesahat.
 - **Refrény kabelu** (kap. 26 ř. 253: *„Tady jsem. Pořád jsem tady."*; kap. 27 ř. 149: *„Tady jsem. Pořád jsem tady."* / *„Vím."*; kap. 33 celá): Bibli explicitně označený leitmotiv, NESAHAT.
 - **Ležatá osmička** se v této závěrečné sekci neobjevuje přímo, ale je odkazována (kap. 30 ř. 67 položka roku „osmička"). NESAHAT princip.
+
+---
+
+## VRSTVA: AUTENTICITA (anti-AI manýry) — revize/ kap. 01–16
+
+**Datum:** 2026-07-11. **Zadání autora:** text je dějově dobrý, ale zní „AI
+generated"; explicitnost zachovat, dějové linky zachovat, próza musí být špica.
+**Provedení:** 16 subagentů (Opus, jeden na kapitolu) podle briefu vrstvy;
+šéfredaktorský dohled nad každým diffem (strážce hlasu) před commitem.
+Kap. 12 dokončil šéfredaktor po pádu subagenta (limit útraty).
+
+### Diagnóza — čím text zněl strojově
+
+Klišé a mrtvá zesilovadla už vyčistil Cyklus 1; „AI podpis" seděl hlouběji:
+
+1. **Aforismus jako tečka** skoro každého odstavce/scény („…a hlad se nedá
+   vyúčtovat", „Místa, co se rozhodla, jsou nudná", „kdo sáhne první, prohrál").
+2. **Sebe-výklad** — vypravěčka ihned interpretuje jev („To byla ta věc,
+   kterou jsem o sobě zjistila — že…", „věděla jsem, že nemluvím o loftu").
+3. **Korekční figura** „Ne X. Y." / „ne X, ale Y" jako reflex.
+4. **Ohlašování budoucnosti** („To mě mělo varovat", „aniž bych věděla, že to
+   budu za dvě hodiny potřebovat").
+5. **Hotové řečnické monology postav** (Martin, Jana, Karla, Vítek mluví
+   v esejích s paralelismem a pointou).
+6. **Symetrické callbacky** (semafor červená/zelená kopíruje emoční beat).
+7. **Trojice a paralelismy** jako metronom.
+8. **Reflexní přirovnání** „jako + abstraktum" („jako pěst", „jako kámen").
+
+### Rozsah zásahů (cca 230 celkem)
+
+- kap. 01: 19 | kap. 02: 17 | kap. 03: 17 | kap. 04: 11
+- kap. 05: ~12 | kap. 06: ~28 | kap. 07: 11 | kap. 08: 17
+- kap. 09: ~15 | kap. 10: 13 | kap. 11: ~15 | kap. 12: ~17 (z toho 5 šéfredaktor)
+- kap. 13: 17 | kap. 14: ~19 | kap. 15: 12 | kap. 16: 17
+
+Délka kapitol klesla o 5–10 % (jen škrty výkladu; tělo, dialog a děj nikde).
+
+### Ukázky „původní → nové + proč"
+
+- kap. 01: „Bylo to první ráno, kdy mi Martin přišel zajímavý. Po devíti
+  letech. *To by mělo něco znamenat, a znamenalo to, jen jsem tehdy nevěděla
+  co.*" → končí „Po devíti letech." (konferansiér budoucnosti pryč; ticho je
+  taky tečka).
+- kap. 03: „,Lehni si,' řekl. *Ne prosba. Pokyn.* …a poslechla, *a ta
+  poslušnost byla sama o sobě jako orgasmus.*" → „,Lehni si,' řekl. A já, co
+  celý život rozhoduju za druhé, … a poslechla." (v sexu se škrtá jen
+  meta-komentář, tělo zůstává).
+- kap. 06: „A bylo na něm vidět, že on tu cenu nepoloží… Že jediný, kdo si
+  z té noci odnese ránu, je Tomáš. A možná i já, jen jsem to zatím necítila."
+  → „Odešel celý. Tomáš ne." (rána zůstává, přestala se komentovat).
+- kap. 12: „Přikývla jsem a uložila si to, *aniž bych věděla, že to budu za
+  dvě hodiny potřebovat*." → „Přikývla jsem a uložila si to."
+- kap. 16 (koda): „…ten kabel v rohu na to celou dobu mlčky koukal a
+  nepotřeboval mi nic říkat, protože tentokrát jsem to dovedla říct sama." →
+  „Kabel v rohu koukal do tmy. Přitáhla jsem se k Martinovi blíž a nechala
+  ten prst kroužit dál." (konec činem; nepředbíhá demystifikaci z kap. 33).
+
+### STRÁŽCE VRÁTIL (šéfredaktorský dohled)
+
+- kap. 01: vráceno „s metodou" (škrt vzal antecedent větě „Devět let jsem tu
+  metodu obdivovala").
+- kap. 03: vráceno zobecňující 2. os. („hlasem, kterým mluvíte, když jste
+  sami" místo uhlazeného „kterým člověk mluví") — Sašin podpis.
+- kap. 04: vráceno „bez kamarádek, co něco potřebují" — zasetá stopa osy 2
+  (Sašino pozdější selhání vůči Nele), ne rytmická vata.
+- kap. 10: vrácena příčka odhalení „peníze nikdy neexistovaly" — věcný stupeň
+  Martinova prozření, ne sebe-výklad.
+- kap. 15: dočištěn visící referent („On to umí." bez opory po škrtu).
+
+### Co se vědomě NEDOTKLO
+
+Explicitní scény (tělo, mechanika, přímá pojmenování) 1:1 nebo syrověji;
+konsensuální rámec (výkaz, sněhulák, check-iny); leitmotivy dle bible (kabel,
+osmička, jeřáby, tramvajový zvuk — proředěno jen tam, kde zrcadlily beat);
+Sašin idiolekt (účetní slovník, „Jo.", hovorové koncovky); Martinovy ošklivé
+žárlivé repliky (plán revize: zůstávají bez omluvy).
+
+### Vzorce, které si autor má hlídat sám (nejčastější tři)
+
+1. Pointa-epigram na konci odstavce — psát klidně dál, ale při revizi nechat
+   max. 1–2 nejlepší na kapitolu; zbytek ať končí činem nebo obyčejnou větou.
+2. Sebe-výklad po jevu („a došlo mi, že… a znamenalo to, že…") — jev nechat,
+   závěr škrtnout; čtenář na to přijde.
+3. „Ne X. Y." — silná figura jen dokud je vzácná.
