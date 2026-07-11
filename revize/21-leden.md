@@ -74,11 +74,11 @@ Zavěsily jsme. Držela jsem telefon v dlani ještě chvíli po tom, co zhasla o
 
 ---
 
-Odpoledne jsem šla ven, bez záměru. Mráz byl suchej, štípal do nosu a do konečků prstů skrz rukavice. Chodníky prošlapaný do lesklýho, na okrajích šedý sníh smíchanej s posypem.
+Odpoledne jsem šla ven, bez záměru. Mráz byl suchej, štípal do nosu a do konečků prstů skrz rukavice. Chodníky prošlapaný do lesklýho, na okrajích šedý sníh smíchanej s posypem, co skřípal pod podrážkama.
 
-Došla jsem dolů k přístavu. Voda nebyla zamrzlá, jen zpomalená, tmavá jak asfalt, u břehu blána ledu, kterou nikdo nerozbil. Lodě přivázaný, kryty plachtama. Jeřáby stály nad tím vším jak vždycky, nehybný, čekající na instrukce, který v lednu nikdo nedá. Stála jsem chvíli u zábradlí, ruce v kapsách, dokud mi mráz nezalezl pod límec, a pak jsem se otočila zpátky nahoru do ulic.
+Došla jsem dolů k přístavu. Voda nebyla zamrzlá, jen zpomalená, tmavá jak asfalt, u břehu blána ledu, kterou nikdo nerozbil. Lodě přivázaný, kryty plachtama, co vítr nadzvedával a pouštěl s plesknutím. Jeřáby stály nad tím vším jak vždycky, nehybný, čekající na instrukce, který v lednu nikdo nedá. Stála jsem chvíli u zábradlí, ruce v kapsách, dokud mi mráz nezalezl pod límec, a pak jsem se otočila zpátky nahoru do ulic.
 
-Kavárna na rohu, kam chodím, měla zamžený sklo a uvnitř zlatý světlo. Objednala jsem si flat white, sedla ke stolu u okna a hřála si prsty o hrnek, dokud nezčervenaly a nezačaly píchat, jak se vracely k životu.
+Kavárna na rohu, kam chodím, měla zamžený sklo a uvnitř zlatý světlo a pach mokrý vlny a mletý kávy. Objednala jsem si flat white, sedla ke stolu u okna a hřála si prsty o hrnek, dokud nezčervenaly a nezačaly píchat, jak se vracely k životu.
 
 Telefon zabzučel. Vítek, z Berlína: *Pivo levný, architektura vážná. Chybí mi výhled z Holešovic.*
 
@@ -114,7 +114,7 @@ Mlčela jsem. Před rokem bych řekla ne hned, vymyslela bych si důvod — term
 
 ---
 
-Martin přišel v šest. Udělala jsem těstoviny s rajčaty a bazalkou z okna, tou, co leden přežila jen se štěstím. V kuchyni byla ostrá pára z hrnce, srážela se na skle do kapek a stékala.
+Martin přišel v šest. Udělala jsem těstoviny s rajčaty a bazalkou z okna, tou, co leden přežila jen se štěstím a v prstech zavoněla ostře. V kuchyni byla ostrá pára z hrnce, srážela se na skle do kapek a stékala.
 
 „Nela volala," řekla jsem, když jsme jedli. „Přemýšlí, že prodá loft."
 
