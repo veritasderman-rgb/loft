@@ -2,7 +2,7 @@
 
 Adama jsem naposledy viděla v září, v kavárně v Dejvicích. Ne v loftu — v kavárně. Ten rozdíl mi tehdy přišel podstatný, i když bych ho nebyla uměla vysvětlit.
 
-Na jaře dostal místo v architektonickém studiu v Brně a odstěhoval se za ním; v Holešovicích zůstal byt pod loftem prázdný a pak se do něj nastěhoval někdo, koho jsem nikdy nepotkala. V Praze byl na dva dny kvůli nějaké zakázce a napsal: *Přijdu za tebou na kafe?* Přišel.
+V létě dostal místo v architektonickém studiu v Brně a odstěhoval se za ním; v Holešovicích zůstal byt pod loftem prázdný a pak se do něj nastěhoval někdo, koho jsem nikdy nepotkala. V Praze byl na dva dny kvůli nějaké zakázce a napsal: *Přijdu za tebou na kafe?* Přišel.
 
 Seděli jsme u okna. Cihlové zdi, dřevěné stoly, muzika, co byla slyšet, ale nepřekážela. Číšník, kluk s culíkem a s propiskou zastrčenou za uchem, přinesl zelený čaj a moji kávu a zeptal se, jestli budeme jíst. Adam se podíval na mě, já zavrtěla hlavou. „Zatím ne, díky." Kluk kývl a nechal nás být.
 
@@ -32,7 +32,7 @@ Zasmál se, tím svým smíchem bez zadržování.
 
 Ukázal na tu ruku, otočil ji dlaní vzhůru, dlaní dolů. „Zlomený zápěstí? Kdepak. Jezdím. Jenom opatrnějc." Pokrčil rameny. „Stejně se padá pořád. Jenom to většinou bolí míň, než se toho člověk bojí."
 
-„To jsi mi říkal už loni. Na schodech."
+„To jsi mi říkal na jaře. Na schodech."
 
 „Protože to platí." Usmál se do čaje.
 

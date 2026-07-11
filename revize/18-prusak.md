@@ -40,9 +40,9 @@ Jana postavila sklenici. Nezvedla obočí, nezeptala se proč. Tuhle otázku už
 
 „A drží to?"
 
-„Drží to ty, kdo to potřebují dodržovat." Otřela pult. „Většina lidí sem chodí, protože mají co ztratit. To je nejlepší pojistka, jakou znám. Není to zákon. Je to společnej zájem." Podívala se na mě. „Proč se ptáš dneska, a ne loni?"
+„Drží to ty, kdo to potřebují dodržovat." Otřela pult. „Většina lidí sem chodí, protože mají co ztratit. To je nejlepší pojistka, jakou znám. Není to zákon. Je to společnej zájem." Podívala se na mě. „Proč se ptáš až dneska?"
 
-„Protože loni tu odnaproti neseděl někdo z mojí práce."
+„Protože do dneška tu odnaproti neseděl nikdo z mojí práce."
 
 Jana přikývla pomalu. „Aha." A pak, věcně, bez konejšení: „Tak to platí i naopak, Sašo. Ona teď ví o tobě to samý, co ty o ní."
 

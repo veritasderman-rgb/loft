@@ -22,11 +22,11 @@ Loft nebyl můj.
 
 To je první věc, kterou musím říct, protože tehdy jsem ji říkala obráceně.
 
-Patřil Nele. Zdědila ho po tetě Ireně — Ireně, kterou jsem nikdy nepoznala, scénografka, sedmdesátá léta, žena, co podle Nely „bydlela ve třech bytech a v žádném" a milovala lidi způsobem, který se do oddacího listu nevejde. Irena umřela na podzim a nechala Nele tenhle prostor v Holešovicích, pár pater nad ulicí, a Nela ho nevěděla k čemu. Nechtěla ho prodat. Nechtěla v něm bydlet. Tak ho nechala otevřený a řekla mně: *máš klíče, choď tam, kdy chceš, stejně tam nikdo není.*
+Patřil Nele. Zdědila ho po tetě Ireně — Ireně, kterou jsem nikdy nepoznala, scénografka, sedmdesátá léta, žena, co podle Nely „bydlela ve třech bytech a v žádném" a milovala lidi způsobem, který se do oddacího listu nevejde. Irena umřela na podzim a nechala Nele tenhle prostor v Holešovicích, pár pater nad ulicí, a Nela ho nevěděla k čemu. Nechtěla ho prodat. Nechtěla v něm bydlet. Tak ho nechala otevřený a půjčovala mi klíče, kdykoli jsem si řekla.
 
 A já jsem tam začala chodit.
 
-Nejdřív jednou za čtrnáct dní. Pak jednou týdně. Pak jsem si tam nosila věci — staré křeslo z Vinohrad, co vypadalo, jako by přežilo několik dekoratérských revolucí a zachovalo si přitom důstojnost; lampu z výprodeje v Normannu; deku na podlahu pro případ, že bych si chtěla lehnout, a já jsem si chtěla lehnout pořád. A jednoho dne jsem si řekla, že potřebuju postel, a místo abych řekla Nele, řekla jsem Martinovi.
+Nejdřív jednou za čtrnáct dní. Pak jednou týdně. Pak jsem si tam nosila věci — staré křeslo z Vinohrad, co vypadalo, jako by přežilo několik dekoratérských revolucí a zachovalo si přitom důstojnost; lampu z výprodeje v Normannu; deku na podlahu pro případ, že bych si chtěla lehnout, a já jsem si chtěla lehnout pořád. V dubnu mi Nela na prahu, s lahví v ruce, dala vlastní svazek: *máš klíče, choď tam, kdy chceš, stejně tam nikdo není.* A pak jsem si řekla, že potřebuju postel, a místo abych řekla Nele, řekla jsem Martinovi.
 
 Martinovi jsem řekla, že jsem koupila prostor v Holešovicích.
 

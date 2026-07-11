@@ -54,7 +54,7 @@ Přišel k nám po jídle, utřel ruce do utěrky.
 
 „Jak dlouho?"
 
-„Skoro rok."
+„Půl roku."
 
 Přikývl. Mluvil málo a bez výplně — ne ze zdrženlivosti, prostě nepotřeboval zaplňovat ticho. Zmínil děti: Matyáš, dvanáct, atletika a fotbal, pořád se nemůže rozhodnout; Ema, devět, kreslí fialovými pastelkami mapu města, co neexistuje, a dělá to už tři týdny. Řekl to s hrdostí, kterou nezakrýval. Zmínil, že je rozvedený. Věcně, bez příběhu okolo.
 
