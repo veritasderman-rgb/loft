@@ -74,7 +74,7 @@ a pak se zastavil. Odtáhl se. Zavřel oči.
 
 „Nedotýkej se mě." Pustil mě a couvl. „Promiň. Já… ne. Ne teď. Nemůžu být tam, kde byli oni, a tvářit se, že to je to samý."
 
-Vzal si tričko. Chvíli stál uprostřed cizího loftu, velký, ztracený, můj manžel, a já jsem na dece seděla a někde hluboko pod tou bolestí ucítila úlevu, že je naštvaný — naštvaného Martina aspoň poznávám. A hned se za tu úlevu styděla, protože i jeho hněv jsem si brala pro sebe, jako všechno ostatní.
+Vzal si tričko. Chvíli stál uprostřed cizího loftu, velký, ztracený, můj manžel, a já jsem na dece seděla a někde hluboko pod tou bolestí ucítila úlevu, že je naštvaný — naštvaného Martina aspoň poznávám. A hned jsem se za tu úlevu styděla, protože i jeho hněv jsem si brala pro sebe, jako všechno ostatní.
 
 „Já jedu k Pavlovi," řekl. „Na pár dní. Nevolej mi. Já zavolám, až budu vědět, co ti chci říct."
 

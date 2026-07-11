@@ -66,7 +66,7 @@ Radek mě sledoval klidně, bez zvědavosti. Mluvili jsme — o architektuře, k
 
 „Zčásti. Víc než dřív."
 
-„To je dost. Víc se najednou nenaučí nikdo." Pousmál se. „Já ji cvičím dvacet let a pořád padám."
+„To je dost. Víc se najednou nenaučí nikdo." Pousmál se. „Já to cvičím dvacet let a pořád padám."
 
 ---
 
