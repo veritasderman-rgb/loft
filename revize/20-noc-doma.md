@@ -44,13 +44,13 @@ Pousmál se. „Výkaz."
 
 ---
 
-Lano kolem zápěstí. Vpředu, ne vzadu — v kleku na posteli, ruce před sebou. Dělal uzly pomalu. Když vážu já, čtu lano mezi prsty a čtu z něj druhého. Když je na mně, čtu jen tíhu a teplo a to, že se nedá couvnout rukou.
+Lano kolem zápěstí. Vpředu, ne vzadu — v kleku na posteli, ruce před sebou. Dělal uzly pomalu. Když vážu já, čtu lano mezi prsty a čtu z něj druhého. Když je na mně, čtu jen tíhu a teplo, hranu bavlny zaříznutou do zápěstí, a to, že se nedá couvnout rukou.
 
 „Ok?" zeptal se.
 
 „Jo."
 
-Pak šátek. Tmavě modrý, hedvábný, uvázal mi ho přes oči volně. Tma nebyla úplná, hedváb pustí trochu světla od lampy, ale zrak přestal být první. Zůstal dech. Zůstala kůže. Zůstal zvuk sousedovy televize skrz zeď, nějaká estráda, potlesk, který sem nepatřil a byl tu.
+Pak šátek. Tmavě modrý, hedvábný, uvázal mi ho přes oči volně, chladný a kluzký na víčkách. Tma nebyla úplná, hedváb pustí trochu světla od lampy, ale zrak přestal být první. Zůstal dech. Zůstala kůže. Zůstal zvuk sousedovy televize skrz zeď, nějaká estráda, potlesk, který sem nepatřil a byl tu.
 
 Položil mě na záda. Svázané ruce mi dal nad hlavu. Nemohla jsem se ho držet, tak jsem se držela jen tím, co dělal — ústa na krku, na prsou, níž, jazyk beze spěchu, ten, co se za rok naučil nemít cíl. Byla jsem mokrá dřív, než se dostal tam, a on to věděl a nekomentoval to, jen mě otevřel dvěma prsty a držel tempo, i když moje boky říkaly rychleji.
 
@@ -58,7 +58,7 @@ Položil mě na záda. Svázané ruce mi dal nad hlavu. Nemohla jsem se ho drže
 
 „Platí. Pokračuj."
 
-Vešel do mě pomalu, celý, a chvíli zůstal bez pohnutí, čelo o moje přes ten šátek. Pak se hýbal. Bez zraku přišel každý dotek bez ohlášení — dlaň na boku, pak zub na rameni, pták hluboko a zase míň. Svázané ruce mi zůstaly ležet nad hlavou; nemohla jsem si sáhnout, kam bych si sáhla, nemohla jsem řídit, kdy co přijde. To bylo na tom nové. Celý rok jsem si věci u sebe organizovala. Tady jsem jen ležela a brala, co přišlo, v pořadí, které jsem neurčovala.
+Vešel do mě pomalu, celý, a chvíli zůstal bez pohnutí, čelo o moje přes ten šátek, dech horký, kůže cítit potem. Pak se hýbal. Bez zraku přišel každý dotek bez ohlášení — dlaň na boku, pak zub na rameni, pták hluboko a zase míň. Svázané ruce mi zůstaly ležet nad hlavou; nemohla jsem si sáhnout, kam bych si sáhla, nemohla jsem řídit, kdy co přijde. To bylo na tom nové. Celý rok jsem si věci u sebe organizovala. Tady jsem jen ležela a brala, co přišlo, v pořadí, které jsem neurčovala.
 
 Zpomalil, když jsem byla blízko, schválně, a stáhl se. Vydechla jsem něco, co nebylo slovo.
 
@@ -116,7 +116,7 @@ Nešli jsme nikam. Martin koupil láhev něčeho šumivého a k tomu řízky, pr
 
 Kolem jedenácté na gauči usnul. Prostě usnul — hlava zvrácená, pusa pootevřená, ruka spadlá z opěradla. Čtyřicátník, co nevydrží do půlnoci. Nechala jsem ho.
 
-Šla jsem do kuchyně. Nalila si sklenici vody a sedla si na zem, zády k lince, dlažba studená přes tepláky. Přes město začaly první rachejtle, netrpělivé, předčasné — tady jedna, tamhle dvě. Z kuchyňského okna je vidět kus Prahy a nad ním, daleko, směrem k Holešovicům, kde stojí loft, vylétla zelená koule a rozpadla se do jisker.
+Šla jsem do kuchyně. Nalila si sklenici vody a sedla si na zem, zády k lince, dlažba studená přes tepláky. Přes město začaly první rachejtle, netrpělivé, předčasné — tady jedna, tamhle dvě. Z kuchyňského okna je vidět kus Prahy a nad ním, daleko, směrem k Holešovicům, kde stojí loft, vylétla zelená koule a rozpadla se do jisker. Rána dolehla o vteřinu později, tlumená sklem.
 
 Chvíli jsem jen seděla. Voda v ruce, nohy studené od dlažby, a v hlavě nic, co by se hnalo stát větou.
 
@@ -166,4 +166,4 @@ Díval se z okna, jak nad Holešovicemi vylétají koule a padají. Chvíli nic.
 
 „Nejlíp se dělá, když nikdo nekouká."
 
-Zasmál se do skla. Opřel se ramenem o mě. Venku nad městem třeskla poslední velká salva a pak řídly, jednotlivě, jak lidem docházely rachejtle. Seděli jsme na studené dlažbě, dokud nebylo skoro ticho, a pak jsem vstala a šla pro deku, aby nám nebyla zima.
+Zasmál se do skla, opřel se ramenem o mě. Venku nad městem třeskla poslední velká salva a pak řídly, jednotlivě, jak lidem docházely rachejtle. Seděli jsme na studené dlažbě, dokud nebylo skoro ticho, a pak jsem vstala a šla pro deku, aby nám nebyla zima.

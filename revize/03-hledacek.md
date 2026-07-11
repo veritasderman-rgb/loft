@@ -16,7 +16,7 @@ Odepsala jsem: *V pátek odpoledne.*
 
 ---
 
-Přišel v šest. Batoh — starý, kožený, bez loga —, jeden fotoaparát, jeden objektiv navíc v kapse bundy, nic víc. Tmavé vlasy, vzadu trochu delší, světlé oči, co se nedaly přišpendlit k jedné barvě — šedé, zelené, podle světla, a v tu hodinu v loftu byly zelené jako lahvové sklo proti slunci. Byl o šest, sedm let mladší než já. Třicet, jednatřicet. Odhadla jsem to na první pohled a hned vedle toho odhadu mi v hlavě naskočila věta, za kterou jsem se zastyděla dřív, než dozněla: *je mladej a já bych chtěla vědět, jak vypadá, když nad ním ztratíš kontrolu.*
+Přišel v šest. Batoh — starý, kožený, bez loga —, jeden fotoaparát, jeden objektiv navíc v kapse bundy, nic víc. Tmavé vlasy, vzadu trochu delší, světlé oči, co se nedaly přišpendlit k jedné barvě — šedé, zelené, podle světla, a v tu hodinu v loftu byly zelené jako lahvové sklo proti slunci. Byl o pár let mladší než já. Třicet, jednatřicet. Odhadla jsem to na první pohled a hned vedle toho odhadu mi v hlavě naskočila věta, za kterou jsem se zastyděla dřív, než dozněla: *je mladej a já bych chtěla vědět, jak vypadá, když nad ním ztratíš kontrolu.*
 
 Vstoupil do loftu a zastavil se.
 

@@ -24,7 +24,7 @@ Před rokem bych to spočítala — kolik stála letenka, kolik dní volna, jest
 
 Trh Ballarò byl v pátek v sedm. Martin si ho nastudoval, jak si nastudoval loft, jak si nastudoval všechno, co chce udělat pořádně.
 
-Chobotnice ležely na ledu, velký, s ramenem přes okraj bedny.
+Chobotnice ležely na ledu, velký, s ramenem přes okraj bedny. Led pod nima tál a crčel mezi bedny, vzduch stál rybinou a slanou vodou, slunce už v sedm pálilo do zátylku.
 
 „No," řekl Martin.
 
@@ -34,7 +34,7 @@ Chobotnice ležely na ledu, velký, s ramenem přes okraj bedny.
 
 V lednu to řekl u večeře nad tím dokumentem o Palermu, vážně, s vidličkou v ruce. Teď stál nad bednou s ledem a měl v obličeji ten výraz, co dřív neměl.
 
-Prodavač — šedesátník, bílý tričko, ruce od moře — se po něm podíval. Slovu nerozuměl, ale výrazu jo.
+Prodavač — šedesátník, bílý tričko, ruce rozpraskaný od soli a šupin — se po něm podíval. Slovu nerozuměl, ale výrazu jo.
 
 „Questo è il mio lavoro," řekl a poklepal na bednu. „Non una galleria."
 
@@ -42,7 +42,7 @@ Prodavač — šedesátník, bílý tričko, ruce od moře — se po něm podív
 
 „Že tohle je jeho práce. Ne galerie."
 
-Martin přikývl, jako by dostal za pravdu a lekci naráz. Koupili jsme dvě ryby, jmény, který neznám v italštině ani v češtině, a prodavač nás poslal do hospody naproti, kde nám je za dvě hodiny usmažili.
+Martin přikývl, jako by dostal za pravdu a lekci naráz. Koupili jsme dvě ryby, jmény, který neznám v italštině ani v češtině. Prodavač nás poslal do hospody naproti, kde nám je za dvě hodiny usmažili — celý, kůže od oleje křupavá, vedle plátek citronu a hrubá sůl.
 
 „Lepší v jídle než jako instalace," řekl Martin nad talířem.
 
@@ -162,7 +162,7 @@ Martin se napil. Dole dohrála muzika a chvíli byla jen ulice.
 
 ---
 
-Druhej den jsme jeli do Agrigenta. Řecký chrámy stály v odpoledním světle, žlutý, starý, klidný.
+Druhej den jsme jeli do Agrigenta. Řecký chrámy stály v odpoledním světle, žlutý, starý, klidný. Cikády vrzaly v suché trávě, kámen sálal.
 
 „Co chceš nechat?" zeptal se Martin před tím velkým.
 

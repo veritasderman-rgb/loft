@@ -26,7 +26,7 @@ Sedla jsem si na kraj pohovky. Ona zůstala stát.
 
 „Takže ty." Podívala se na mě rovně. „Odkup. Přepíšu ho na tebe. Notář, papíry, celá ta nuda. Cenu ti řeknu poctivou, ne pražskou."
 
-Držela jsem hrnek oběma rukama a nic neříkala.
+Držela jsem hrnek oběma rukama, pálil do dlaní, a nic neříkala.
 
 „Rok jsi sem tahala lidi a hledala se v tom," dodala. „Ať to teda máš i na papíře. Aspoň bude jasný, čí ten roh je."
 
@@ -74,9 +74,9 @@ Na Andělu vstala a vyšla ven. Dívala se přitom pod nohy, aby nezakopla o mez
 
 ---
 
-V neděli jsme jeli na Náměstí Míru, na trh pod kostelem. Stánky se sazenicema stály v řadě podél zábradlí, bedýnky s macešema, rajčatový sazenice v černých kelímkách, cedulky psaný fixou. Prodavačka v zelený zástěře, ruce od hlíny až po lokty, nám vysvětlovala, který rajčata jsou keříkový a který se musí vyvazovat, a Martin poslouchal, jako by ho z toho zkoušeli.
+V neděli jsme jeli na Náměstí Míru, na trh pod kostelem. Stánky se sazenicema stály v řadě podél zábradlí, bedýnky s macešema, rajčatový sazenice v černých kelímkách, cedulky psaný fixou. Táhla od nich mokrá hlína a pošlapaná zeleň. Prodavačka v zelený zástěře, ruce od hlíny až po lokty, nám vysvětlovala, který rajčata jsou keříkový a který se musí vyvazovat. Martin poslouchal, jako by ho z toho zkoušeli.
 
-Vzal dvě sazenice rajčat. Já jsem u vedlejšího stánku sáhla po bazalce, protože když jsem se jí dotkla, zavoněla.
+Vzal dvě sazenice rajčat. Já jsem u vedlejšího stánku sáhla po bazalce, protože když jsem se jí dotkla, zavoněla ostře, skoro po hřebíčku.
 
 U kaktusů jsem se zastavila. Tři malý, každej jinej, v plastových kelímkách po třiceti korunách.
 
@@ -86,7 +86,7 @@ U kaktusů jsem se zastavila. Tři malý, každej jinej, v plastových kelímká
 
 Koupili jsme rajčata, bazalku a tři kaktusy.
 
-Doma jsme je rozsadili na balkoně. Martin klečel nad květináčem, hlínu bral hrstma z pytle a cpal ji kolem kořenů, palcem přitlačoval kraje. Pod nehtama měl černo. Škrábl se přitom o čelo a zůstal mu tam pruh hlíny, kterej si neuvědomoval, a já jsem mu to chvíli nechtěla říct.
+Doma jsme je rozsadili na balkoně. Martin klečel nad květináčem, hlínu bral hrstma z pytle a cpal ji kolem kořenů, palcem přitlačoval kraje. Pod nehtama měl černo. Škrábl se přitom o čelo a zůstal mu tam pruh hlíny, kterej si neuvědomoval. A já jsem mu to chvíli nechtěla říct.
 
 „Ty se budeš starat o rajčata," řekla jsem. „Já o kaktusy."
 
@@ -148,6 +148,6 @@ Zastavila jsem se u zábradlí. Vítr šel od vody, vlažnej, a nesl to, co jaro
 
 Termín ležel přede mnou. Do léta. Nerozhodla jsem se u tý vody a nechtěla jsem se rozhodnout jen proto, abych to měla odškrtnutý.
 
-Muž u mola dosložil plachtu, hodil si ji přes rameno a odešel po můstku k autu. Loď zůstala nahá, holý trup, lana srovnaný, připravená na vodu, jen ještě nikdo neodvázal.
+Muž u mola dosložil plachtu, hodil si ji přes rameno a odešel po můstku k autu. Loď zůstala nahá, holý trup, lana srovnaný, připravená na vodu, jen ještě nikdo neodvázal. Voda jí pleskala o bok.
 
 Utrhla jsem jeden ten srolovanej list, promnula ho v prstech — byl lepkavej, mladej — a nechala ho spadnout dolů na hladinu. Chvíli plaval, pak ho vzal proud a odnesl ke druhýmu břehu. Otočila jsem se a šla nahoru zpátky do ulic.

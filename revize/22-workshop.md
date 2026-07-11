@@ -1,12 +1,12 @@
 ## Kapitola šestnáctá: Workshop
 
-Byl únor, druhá sobota, a byt v Dejvicích, kde Karla vedla workshop, nebyl její — pronajatý prostor nad lékárnou, dvě místnosti spojené v jednu, radiátory přetopené tak, že první, co člověk udělal, bylo sundat svetr. Deset lidí kolem dlouhého stolu. V rohu termoska s kávou, papírové kelímky, cukr v sáčcích a mléko, které zatím nikdo nenalil. Karla u tabule, fixa v ruce, stříbrné vlasy krátce.
+Byl únor, druhá sobota, a byt v Dejvicích, kde Karla vedla workshop, nebyl její — pronajatý prostor nad lékárnou, dvě místnosti spojené v jednu, radiátory přetopené tak, že první, co člověk udělal, bylo sundat svetr. Občas v nich cvaklo. Deset lidí kolem dlouhého stolu. V rohu termoska s kávou, papírové kelímky, cukr v sáčcích a mléko, které zatím nikdo nenalil. Karla u tabule, fixa v ruce, stříbrné vlasy krátce.
 
 Sedla jsem si s Martinem ke kraji. Nalil si kávu a nepil ji, jen ji držel oběma rukama — tak drží nervozitu. Před rokem by tady neseděl a já bych ho sem nezvala.
 
 Rozhlédla jsem se po lidech, jak jsem se naučila rozhlížet po zasedačce — kdo mluví, kdo mlčí, kdo si dělá poznámky, aby nemusel poslouchat. Starší pár naproti, oba přes šedesát: on měl brýle na čtení posunuté na špičku nosu, ona pletený svetr a ruce složené v klíně jako u lékaře. Vedle mě kluk v mikině, kapuci stáhnutou do půlky čela, koleno mu poskakovalo pod stolem v rytmu, který neslyšel nikdo než on. Dvě ženy, co přišly spolu a nebylo z ničeho jasné, jestli jako pár nebo jako opora. A vpředu dívka, dvacátnice, krátké vlasy za uši, blok na kolenou, na kterém zatím nic nebylo.
 
-Nervozita nováčků má svůj pach. Znám ho z prvních porad, kdy jsem ještě nevěděla, že se pauzy nemusím bát.
+Nervozita nováčků má svůj pach — přehřátý deodorant a studený pot. Znám ho z prvních porad, kdy jsem ještě nevěděla, že se pauzy nemusím bát.
 
 ---
 
@@ -72,7 +72,7 @@ Ta vyšší z těch dvou žen, co přišly spolu, zvedla ruku do půli a zase ji
 
 ---
 
-Simona seděla u druhého konce stolu. Přišla taky — napsala mi den předtím, jestli může, jako by potřebovala dovolení, a já jí odepsala, že workshop není můj, ať přijde. Vedle ní seděl muž, kterýho jsem neznala. Marek. Velký, tichý, ruce na stole položené klidně; když Simona mluvila, díval se na ni pozorně, jako by čekal, aby ji zachytil, kdyby zakolísala.
+Simona seděla u druhého konce stolu. Přišla taky — napsala mi den předtím, jestli může, jako by potřebovala dovolení, a já jí odepsala, že workshop není můj, ať přijde. Vedle ní seděl muž, kterýho jsem neznala. Marek. Velký, tichý, ruce na stole položené klidně. Když Simona mluvila, díval se na ni pozorně, jako by čekal, aby ji zachytil, kdyby zakolísala.
 
 Ta menší z těch dvou žen se zeptala do stolu: „A ten… safe word. To se používá jenom když je vážně zle? Nechci nikoho zdržovat kvůli hloupostem."
 
@@ -134,7 +134,7 @@ Chtěla se zeptat na další, viděla jsem jí tu otázku *a teď?* na jazyku. N
 
 ---
 
-Domů jsme šli pěšky. Bylo to pár zastávek tramvají, ale vzduch po přetopené místnosti chutnal a únor byl někde na půl cesty do března — chodníky suché, sníh jen ve stínu u zdí.
+Domů jsme šli pěšky. Bylo to pár zastávek tramvají, ale vzduch po přetopené místnosti chutnal studeně a ostře a únor byl někde na půl cesty do března. Chodníky suché, sníh jen ve stínu u zdí.
 
 Kolem prošla tramvaj, skřípla v oblouku a byla pryč. Martin si dal ruce do kapes. Nespěchal ani teď — čekal, až mu chodník ujde pod nohama tolik, kolik potřeboval.
 

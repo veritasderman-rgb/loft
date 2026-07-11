@@ -339,3 +339,31 @@ Milníky:
 ---
 
 *Bible uzavřena. Délka: cca 280 řádků. K dispozici pro vrstvy klise-lovec, smysly, vnitrni-hlas, dialog, rytmus, hlas-strazce.*
+
+---
+
+## 8. DODATEK — kánon po Velké revizi (revize/01–25, červenec 2026)
+
+Tento dodatek přebíjí starší údaje výše tam, kde se liší:
+
+- **Vlastnictví loftu:** Nela (dědictví po Ireně) — sjednoceno; Saša Martinovi
+  lhala o koupi (kap. 1), odvolala v přiznání (kap. 7,5). Rozpor §7.1 vyřešen.
+- **Klíče:** na podzim–zimu půjčované od Nely; VLASTNÍ svazek od dubna roku 1
+  („na prahu, s lahví v ruce"). Od Trhliny (listopad) rituál: zvonit/ohlásit se.
+- **Nela–Vítek:** v revizi PŘÁTELÉ od základky (Vítek rozvedený); párem se
+  stávají až na podzim roku 1 (sestěhování říjen, Berlín listopad). Údaj
+  „partner 4 roky" výše NEPLATÍ.
+- **Dvě Jany:** žena ze střechy přejmenována na **Danu**. Jana = jen Salon.
+- **Přiznání Martinovi:** červen/červenec roku 1, PŘED srpnovým Salonem.
+  Věta „měsíc před tím…" z původní kap. 31 zrušena.
+- **Adam:** nastěhoval se na jaře roku 1, v létě odešel za prací do Brna,
+  kavárna v Dejvicích = září roku 1.
+- **Refrén kabelu „Tady jsem":** v revizi odstraněn (0 výskytů); kabel mluví
+  naposledy jen nepřímo, kóda je němá. „Divně dobře": 0 výskytů. Nevracet.
+- **Demystifikace kabelu (pův. kap. 33):** zrušena. Symbol se nevysvětluje.
+- **Nové postavy:** Hana (personalistka, Salon, ví o Saše; vzájemné rukojmí),
+  Ondra (Hanin partner), Marek (Simonin partner od února), Božena (sousedka
+  v Lípě), táta Jirka. Tomáš: „o pár let mladší", 30–31.
+- **Retrospektivní zkratka „tři noci na gauči"** (kap. 16, kóda) = domácí
+  gauč; 4 dny u Pavla se v retrospektivách nepočítají — záměr, nechat.
+- **Číslo 386** (silvestrovský výkaz) je v textu záměrně nedefinované.
