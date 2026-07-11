@@ -4,7 +4,7 @@ Do loftu jsem přišla v listopadu, pár dní po střeše, a odemkla si vlastní
 
 Nela klečela uprostřed místnosti mezi krabicema.
 
-Ne v módu hostitelky. Džíny, stará mikina se skvrnou od tiskařský barvy na rukávu, vlasy stažený dozadu. Kolem ní čtyři kartony, jeden otevřenej, izolepa odmotaná a přeložená přes hranu. Na podlaze složka fotek, svazek dopisů převázanej gumičkou, porcelánovej ptáček bez ocasu. Listopad tlačil oknem to svý šedý světlo, co Praze říká, že za chvíli bude tma.
+Ne v módu hostitelky. Džíny, stará mikina se skvrnou od tiskařský barvy na rukávu, vlasy stažený dozadu. Kolem ní čtyři kartony, jeden otevřenej, izolepa odmotaná a přeložená přes hranu, a táhlo z něj starým papírem a prachem. Na podlaze složka fotek, svazek dopisů převázanej gumičkou, porcelánovej ptáček bez ocasu. Listopad tlačil oknem to svý šedý světlo, co Praze říká, že za chvíli bude tma.
 
 Zvedla hlavu. Nezvedla ji rychle.
 
@@ -28,7 +28,7 @@ Sundala jsem si kabát pomalejc, než bylo potřeba.
 
 „To jsou věci po tetě Ireně, Saško. Ne stěhování nábytku." Vytáhla ze složky fotku, otočila ji, položila lícem dolů. „Některý věci si člověk chce probrat sám."
 
-Sáhla jsem po tom porcelánovým ptáčkovi bez ocasu — nevědomky, jen abych něco držela.
+Sáhla jsem po tom studeným porcelánovým ptáčkovi bez ocasu — nevědomky, jen abych něco držela.
 
 „Nech ho." Neřekla to ostře. Ale hned.
 
@@ -166,4 +166,4 @@ Přikývla jsem. Nezeptala jsem se, jestli je to mezi náma v pořádku, protož
 
 „Jo." Skoro se usmála. „Zazvoň."
 
-Otevřela jsem dveře. Zavřela je za sebou a slyšela, jak zámek zapadl — z tý druhý strany, poprvý za celej rok. Klíče jsem měla v kapse. Držela jsem je v dlani celou cestu dolů po schodech a nepustila je, ani když jsem vyšla na ulici do listopadovýho chladu, kde už byla tma.
+Otevřela jsem dveře. Zavřela je za sebou a slyšela, jak zámek zapadl — z tý druhý strany, poprvý za celej rok. Klíče jsem měla v kapse. Držela jsem je v dlani, až se kov ohřál, celou cestu dolů po schodech a nepustila je, ani když jsem vyšla na ulici do vlhkýho listopadovýho chladu, kde už byla tma.

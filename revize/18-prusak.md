@@ -8,7 +8,7 @@ Přišli jsme s Martinem po deváté. Odložili jsme kabáty, dali si vodu, chv�
 
 „Jo."
 
-V zadním traktu bylo přítmí hustší. Pohovky po stranách, pár lidí, tlumené hlasy. Posadil mě na jednu z nich, do rohu, zády k opěradlu, a klekl si přede mě. Ruku mi položil na koleno a nechal ji tam, dokud jsem se nepřestala dívat po místnosti a nezačala dívat na něj.
+V zadním traktu bylo přítmí hustší. Pohovky po stranách, pár lidí, tlumené hlasy. Posadil mě na jednu z nich, do rohu, zády k opěradlu, a klekl si přede mě. Ruku mi položil na koleno, teplou a těžkou, a nechal ji tam, dokud jsem se nepřestala dívat po místnosti a nezačala dívat na něj.
 
 „Výkaz pořád platí," řekl tiše. Ne jako otázku. Jako inventuru před začátkem.
 
@@ -16,7 +16,7 @@ V zadním traktu bylo přítmí hustší. Pohovky po stranách, pár lidí, tlum
 
 Shrnul mi šaty přes stehna, rozepnul mi je v ramenou. Klára se dívala odnaproti, ten její pohled, co nechce nic, jen je u toho, a mně to nevadilo — před rokem by mi to vadilo. Martin mi zajel rukou mezi nohy, dva prsty, a byla jsem mokrá dřív, než se pořádně dotkl. Slyšel to. Nekomentoval to, jen mě otevřel víc, palcem na klitorisu, pomalu, tím tempem, co se za ten rok naučil držet i tehdy, když by spěchal. Sáhla jsem mu do klína, přes látku, tvrdý. Rozepnula jsem ho. Vzala jsem ho do ruky a pak níž, ústy, krátce, jen tak akorát, aby věděl, že to je moje volba a ne provoz.
 
-Položil mě do opěradla, zvedl mi kolena a vešel do mě pomalu, celý. Dýchala jsem mu do krku a on se hýbal beze spěchu, dlaň pod mým zátylkem, a já jsem se pod ním otevírala do toho známého tepla, kdy tělo přestane počítat.
+Položil mě do opěradla, zvedl mi kolena a vešel do mě pomalu, celý. Dýchala jsem mu do krku, sůl na jeho kůži, a on se hýbal beze spěchu, dlaň pod mým zátylkem, a já jsem se pod ním otevírala do toho známého tepla, kdy tělo přestane počítat.
 
 A přesně tam, přes celý sál, u baru — oči.
 
@@ -102,7 +102,7 @@ Petra odešla. Seděla jsem u tabulek, ventilace nad hlavou, suchá, nepřetrži
 
 ---
 
-Doma večer. Martin krájel kuřecí prsa, brokolici, česnek. Sedla jsem si k lince a řekla mu o Haně — celé, i to o Davidovi.
+Doma večer. Martin krájel kuřecí prsa, brokolici, česnek. Sedla jsem si k lince, byl cítit česnek, a řekla mu o Haně — celé, i to o Davidovi.
 
 Neotočil se hned. Dokrájel.
 
@@ -112,7 +112,7 @@ Neotočil se hned. Dokrájel.
 
 „Že to táta uslyší od někoho v Lípě dřív, než by to pochopil ode mě. Že v práci budu ženská, o který se něco ví. Ne odbornice. Ta druhá věc."
 
-Hodil brokolici na pánev. „Ty jim lžeš?"
+Hodil brokolici na pánev, zasyčelo to. „Ty jim lžeš?"
 
 „Nelžu. Vynechávám." Slyšela jsem, jak to zní, když to řeknu nahlas. „Účetně to sedí. Ale účetnictví umí bejt sebevědomý zrovna tam, kde něco nesedí jinde."
 

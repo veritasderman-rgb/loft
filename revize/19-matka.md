@@ -6,7 +6,7 @@ Vzala jsem si na středu volno. Do práce jsem napsala, že mám rodinnou návš
 
 Přijela v 10:14 na hlavní. Poznala jsem ji dřív, než ona mě — menší, než si ji pamatuju, v tom šedém kabátě, co nosí osm zim, s taškou, kterou nepustí z ruky, i když jí ji beru.
 
-Advent v Praze není z pohlednice. Šly jsme na trhy na Můstku, maminka chtěla svařák, tak jsme stály ve frontě u stánku, kde chlap v santa čepici naléval z termosky a bral jen hotově, a fronta se netlačila kupředu, jen houstla. Kolem Němci s foťáky, dvě děti řvaly u dřevěného kolotoče, z reproduktoru hrálo něco o Ježíškovi tak nahlas, že jsme na sebe musely mluvit blíž.
+Advent v Praze není z pohlednice. Šly jsme na trhy na Můstku, maminka chtěla svařák, tak jsme stály ve frontě u stánku, kde chlap v santa čepici naléval z termosky svařák, co táhl hřebíčkem a levným vínem, a bral jen hotově, a fronta se netlačila kupředu, jen houstla. Kolem Němci s foťáky, dvě děti řvaly u dřevěného kolotoče, z reproduktoru hrálo něco o Ježíškovi tak nahlas, že jsme na sebe musely mluvit blíž.
 
 „Za tohle bych doma udělala celej hrnec," řekla maminka, když viděla ceník. Ale vzala si, hřála si o kelímek ruce a byla spokojená. To na ní neumím: být proti něčemu a užívat si to zároveň.
 
@@ -16,7 +16,7 @@ Chlap za námi ve frontě do nás dvakrát vrazil břichem a poprvé se ani neom
 
 ---
 
-Na oběd jsme zapadly do podniku ve vedlejší ulici, kde nebyl trh a nebylo slyšet reproduktor. Já polévku, ona svíčkovou, „když už jsem v Praze". A pak mluvila.
+Na oběd jsme zapadly do podniku ve vedlejší ulici, kde nebyl trh a nebylo slyšet reproduktor, jen cinkot příborů a teplo z kuchyně. Já polévku, ona svíčkovou, „když už jsem v Praze". A pak mluvila.
 
 O sousedce Boženě, co si po smrti starého kocoura pořídila nového a ten je prej blázen, leze po záclonách a v noci loví igelitové sáčky. O zavařování — meruňky se letos povedly, švestky zplesnivěly, protože přišly deště zrovna, když neměly. O tátovi.
 
@@ -100,10 +100,10 @@ Přespala u nás na gauči a odjížděla ráno. Vyprovázela jsem ji na nádra�
 
 „Kdykoliv," řekla jsem, a myslela to.
 
-Naskočilo nástupiště. Vzala tašku, tu, co nepustí. Objaly jsme se — maminka objímá krátce a pevně, nikdy dlouho; dlouhé objetí prej znamená, že se něco děje. Odtáhla se, podržela mě za předloktí a podívala se na mě zdola, protože je menší. Nečekala jsem moudro a nedostala ho.
+Naskočilo nástupiště. Vzala tašku, tu, co nepustí. Objaly jsme se — maminka objímá krátce a pevně, kabát studený zvenčí, nikdy dlouho; dlouhé objetí prej znamená, že se něco děje. Odtáhla se, podržela mě za předloktí a podívala se na mě zdola, protože je menší. Nečekala jsem moudro a nedostala ho.
 
 „Hlavně ať víš, co děláš," řekla. „Tys vždycky věděla." Poklepala mě po ruce. „A Martinovi řekni, ať k nám na Štěpána jede v tom svetru, ne v saku. U nás se sako nenosí."
 
 Šla k nástupišti, mezi lidi. Ta šedá záda, ta taška. Vlak odjel v 9:32, přesně.
 
-Měla jsem volno až do oběda. Nešla jsem na tramvaj. Vyšla jsem z nádraží do šedého prosincového rána, zapnula si kabát ke krku a šla pěšky. Domů to bylo přes celé město. Šla jsem to celé.
+Měla jsem volno až do oběda. Nešla jsem na tramvaj. Vyšla jsem z nádraží do šedého prosincového rána, dech se mi srážel v páru, zapnula si kabát ke krku a šla pěšky. Domů to bylo přes celé město. Šla jsem to celé.
