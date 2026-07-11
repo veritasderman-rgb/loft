@@ -2,7 +2,7 @@
 
 Tomáš Brejcha mi napsal v úterý odpoledne a já jsem ten telefon držela v ruce o tři vteřiny dýl, než bylo normální.
 
-Viděla jsem ho předtím jednou. Patřil do skupiny fotografů, co nám každé čtvrtletí fotili katalog — produkty, lidi, eventy —, a on byl ten, co fotil prostory. Přišel bez asistenta, kdy ostatní táhli kufry na kolečkách, a pracoval potichu, a já jsem si ho tehdy nevšimla. Spíš jsem si až dodatečně všimla, že jsem si ho nevšimla, a to je úplně jiná věc. To je to, co dělají muži, kteří se nesnaží být viděni: zaryjí se vám pod kůži zezadu, ve chvíli, kdy nedáváte pozor.
+Viděla jsem ho předtím jednou. Patřil do skupiny fotografů, co nám každé čtvrtletí fotili katalog — produkty, lidi, eventy —, a on byl ten, co fotil prostory. Přišel bez asistenta, kdy ostatní táhli kufry na kolečkách, a pracoval potichu, a já jsem si ho tehdy nevšimla. Spíš jsem si až dodatečně všimla, že jsem si ho nevšimla, a to je úplně jiná věc.
 
 Napsal: *Dobrý den, mám zájem o focení v loftu. Viděl jsem ten prostor v katalogu jednoho architekta. Je váš? Mohl bych se přijít podívat?*
 
@@ -10,7 +10,7 @@ Odepsala jsem: *Je můj. Co hledáte?*
 
 *Pracuju na projektu o soukromých prostorách. Prázdná místa, ne byty. Místa, co nejsou plná, ale mají paměť. Mohli bychom se sejít?*
 
-Tomu mailu jsem věnovala víc pozornosti než celodennímu reportingu. Četla jsem ho dvakrát, třikrát, a podruhé mi přejel takový ten drobný mráz po zádech, co nedává smysl — pár vět od cizího chlapa o prázdných místech, a mně se stáhlo něco hluboko v podbřišku jako pěst. Ještě jsem nevěděla, co to znamená. Tělo to vědělo dřív než já. Tělo ví věci vždycky dřív; hlava je jenom dohání a předstírá, že to vymyslela.
+Tomu mailu jsem věnovala víc pozornosti než celodennímu reportingu. Četla jsem ho dvakrát, třikrát, a podruhé mi přejel takový ten drobný mráz po zádech, co nedává smysl — pár vět od cizího chlapa o prázdných místech, a mně se něco stáhlo hluboko v podbřišku. Tělo to vědělo dřív než já.
 
 Odepsala jsem: *V pátek odpoledne.*
 
@@ -32,7 +32,7 @@ A já jsem stála kousek za ním a dívala se na něj, jak se dívá, a poprvé 
 
 „Průmyslová okna," řekla jsem a slyšela, že mám hlas o stupínek níž, než jsem ho pustila z pusy. „Původní."
 
-„Vidím." Přistoupil ke zdi a položil na ni celou dlaň, plochou, ne jen prsty. Jako by zkoušel, jestli je teplá. Jako by skrz ni poslouchal. „Stará cihla. Kolik let?"
+„Vidím." Přistoupil ke zdi a položil na ni celou dlaň, plochou, ne jen prsty. Jako by zkoušel, jestli je teplá. „Stará cihla. Kolik let?"
 
 „Aspoň sto, říkali."
 
@@ -54,9 +54,9 @@ Prošel pomalu podél zdi, pak ke stropu, k tomu trámu, pak se zastavil v levé
 
 Neřekl nic. Vzal foťák a začal kabel fotit. Fotil ho dýl než zdi a okna — minut pět, šest, z různých úhlů, různá nastavení —, a já jsem stála a sledovala, jak jiný muž v mém tajném prostoru věnuje takovou trpělivou, soustředěnou pozornost něčemu zbytečnému, a žárlila jsem. Žárlila na ten kabel, tak hloupě a doslova, že jsem se musela kousnout do tváře, aby mi to nebylo vidět. Chtěla jsem, aby se tak díval na mě.
 
-Fotil hodinu. Metodicky — podlaha, zdi, okno, strop, kabel —, a občas se mě na něco zeptal: jestli mi to nevadí, jestli může přitáhnout křeslo, jestli jde okno otevřít víc. Mluvil klidně, svým normálním tempem. Ne tím vyšším, rychlejším hlasem, co mají muži, kteří chtějí udělat dojem. Mluvil hlasem, kterým mluvíte, když jste sami.
+Fotil hodinu. Metodicky — podlaha, zdi, okno, strop, kabel —, a občas se mě na něco zeptal: jestli mi to nevadí, jestli může přitáhnout křeslo, jestli jde okno otevřít víc. Mluvil klidně, svým normálním tempem, hlasem, kterým mluvíte, když jste sami.
 
-Mluvil ke mně jako k prostoru. A já jsem zjistila, že chci být prostor, který tak ohmatává očima.
+Mluvil ke mně jako k prostoru. A já jsem chtěla být prostor, který tak ohmatává očima.
 
 Na konci se ke mně otočil.
 
@@ -76,7 +76,7 @@ Zabalil foťák. „Mohl bych se vrátit? Jednu věc bych chtěl chytit v ranní
 
 „Vraťte se," řekla jsem, a v duchu dodala, ať se vrátí a udělá konečně něco, kvůli čemu se mi ten večer stahuje břicho.
 
-Odešel. Já zůstala. Sedla jsem si na parapet, zapálila si — zbyly dvě —, a všimla jsem si, že jsem mokrá. Jen z toho, jak se ten chlap díval na zeď. Zasunula jsem si ruku pod sukni, opřela hlavu o studené sklo a udělala si to sama, rychle a vztekle, s jeho zelenýma očima pod víčky, a ani to mi nestačilo. To mě mělo varovat. Tohle nebyl experiment jako David. Tohle byl hlad, a hlad se nedá vyúčtovat.
+Odešel. Já zůstala. Sedla jsem si na parapet, zapálila si — zbyly dvě —, a všimla jsem si, že jsem mokrá. Jen z toho, jak se ten chlap díval na zeď. Zasunula jsem si ruku pod sukni, opřela hlavu o studené sklo a udělala si to sama, rychle a vztekle, s jeho zelenýma očima pod víčky, a ani to mi nestačilo. S Davidem to byl experiment. Tohle byl hlad, a hlad se nedá vyúčtovat.
 
 ---
 
@@ -86,7 +86,7 @@ Vrátil se v sobotu ráno. V sedm přesně — ne v šest padesát, ne v sedm p�
 
 „Správně. Bez cukru."
 
-„To jsem netipnul. To jsem věděl." Podal mi kelímek a já jsem se při tom dotkla jeho prstů a oba jsme to věděli a oba jsme to nechali být, protože tahle hra má pravidla a jedno z nich je, že kdo sáhne první, prohrál.
+„To jsem netipnul. To jsem věděl." Podal mi kelímek a já jsem se při tom dotkla jeho prstů a oba jsme to věděli a oba jsme to nechali být.
 
 Fotil dvě hodiny. Ranní světlo bylo tvrdší, přímější, a kabel v něm byl vidět líp než kdy jindy. Přitáhl stativ doprostřed místnosti a fotil ho zepředu, s oknem a ránem za ním.
 
@@ -98,7 +98,7 @@ Fotil dvě hodiny. Ranní světlo bylo tvrdší, přímější, a kabel v něm b
 
 Stáli jsme v tom ranním světle dva metry od sebe a vzduch mezi námi byl hustý jako před bouřkou. Věděla jsem, že stačí jeden krok. Věděla jsem, že kdyby ten krok udělal on, udělala bych zbytek.
 
-Neudělal ho. Jenom se na mě díval tím svým způsobem, dokud mi nehořely tváře, a pak řekl tiše: „Měl bych jít." A šel, a já jsem za ním zavřela dveře a opřela se o ně zády a nadávala mu i sobě, protože jsem věděla, že tohle protahování je naschvál, a věděla jsem, že mě tím dostává přesně tam, kam chce.
+Neudělal ho. Jenom se na mě díval tím svým způsobem, dokud mi nehořely tváře, a pak řekl tiše: „Měl bych jít." A šel, a já jsem za ním zavřela dveře a opřela se o ně zády a nadávala mu i sobě, protože tohle protahování bylo naschvál.
 
 Fotky přišly ve čtvrtek. Čtyřiadvacet snímků, černobílých. Loft na nich byl jiné místo — totéž místo, viděné z hloubky, kterou jsem v něm nikdy neuviděla. Byla jsem na dvou — moje záda, ruka na parapetu —, a o ani jedné jsem nevěděla. Vyfotil mě, aniž jsem to tušila. Nebo jsem to tušila a zapomněla. Kabel byl na sedmi.
 
@@ -116,7 +116,7 @@ Seděla jsem s tím mailem a věděla, co píšu, ještě než jsem to napsala.
 
 Přišel přesně v šest. Batoh přes rameno jako vždycky — ale tentokrát jsem věděla, že nepřišel fotit.
 
-Otevřela jsem a chvíli jsme se na sebe dívali beze slova. V tom tichu nebylo nic nejistého. Oba jsme věděli, proč tu je, a oba jsme se rozhodli to ještě chvíli neříkat nahlas, protože nevyřčené má vlastní napětí a my jsme ho oba chtěli natáhnout do prasknutí.
+Otevřela jsem a chvíli jsme se na sebe dívali beze slova. V tom tichu nebylo nic nejistého. Oba jsme věděli, proč tu je, a oba jsme to ještě chvíli neřekli nahlas.
 
 „Nevím přesně, proč jsem vám psala," řekla jsem, a byla to lež, kterou jsme oba poznali.
 
@@ -144,9 +144,9 @@ Něco se mu v obličeji změnilo — ne překvapení, spíš úleva, jako když 
 
 ---
 
-Líbal mě, jako kdyby měl všechen čas světa a zároveň jako by hořel — pomalu, hluboko, jazykem, ruku zabořenou do mých vlasů, druhou už pod svetrem, na žebrech, na prsu, palcem přes bradavku přes podprsenku, dokud nestála a nebolela. Svlékl mi svetr přes hlavu a odhodil ho, rozepnul podprsenku jedním pohybem a chvíli se jen díval, vsával mě očima stejně, jako vsával tu cihlu, a já jsem se pod tím pohledem necítila vystavená, cítila jsem se viděná, a to je rozdíl, kvůli kterému člověk pláče.
+Líbal mě, jako kdyby měl všechen čas světa a zároveň jako by hořel — pomalu, hluboko, jazykem, ruku zabořenou do mých vlasů, druhou už pod svetrem, na žebrech, na prsu, palcem přes bradavku přes podprsenku, dokud nestála a nebolela. Svlékl mi svetr přes hlavu a odhodil ho, rozepnul podprsenku jedním pohybem a chvíli se jen díval, vsával mě očima stejně, jako vsával tu cihlu, a já jsem se pod tím pohledem necítila vystavená, cítila jsem se viděná.
 
-„Lehni si," řekl. Ne prosba. Pokyn. A já, co celý život rozhoduju za druhé, jsem si lehla na záda na tu deku, beton studený přes vlnu, a poslechla, a ta poslušnost byla sama o sobě jako orgasmus.
+„Lehni si," řekl. A já, co celý život rozhoduju za druhé, jsem si lehla na záda na tu deku, beton studený přes vlnu, a poslechla.
 
 Svlékl mi sukni, kalhotky stáhl pomalu, palci přes boky, a roztáhl mi kolena dlaněmi. „Bože," řekl tiše, díval se. „Ty seš úplně mokrá. Takhle dlouho?"
 
@@ -158,7 +158,7 @@ Sklonil se a olízl mě — jednou, plochým jazykem, odzdola nahoru, a já jsem
 
 Chytila jsem se deky tak, že se mi vlákno zarylo pod nehet, a on mě lízal a prstil zároveň, rytmus prstů a jazyka do sebe zapadl, a první orgasmus přišel rychleji, než jsem stačila chtít se bránit — krátký, ostrý, stáhlo mě to celou kolem jeho prstů, a já jsem vykřikla do ticha loftu a vůbec mě nenapadlo se ztišit.
 
-Nepřestal. „Ještě," řekl, ne jako otázku. Zrychlil prsty a sál dál, a mně se ten druhý hrnul rovnou na patách prvního, z hlubšího místa, a já jsem ho prosila — doopravdy prosila, slyšela jsem se, *prosím, prosím, ano* — a on zvedl na vteřinu hlavu, oči mokré od mě, a řekl: „Pros dál. Líbí se mi, jak prosíš," a já jsem prosila, a udělala jsem se podruhé tak, že se mi zatmělo před očima a stehna se mi roztřásla kolem jeho hlavy.
+Nepřestal. „Ještě," řekl. Zrychlil prsty a sál dál, a mně se ten druhý hrnul rovnou na patách prvního, z hlubšího místa, a já jsem ho prosila — doopravdy prosila, slyšela jsem se, *prosím, prosím, ano* — a on zvedl na vteřinu hlavu, oči mokré od mě, a řekl: „Pros dál. Líbí se mi, jak prosíš," a já jsem prosila, a udělala jsem se podruhé tak, že se mi zatmělo před očima a stehna se mi roztřásla kolem jeho hlavy.
 
 Pak si klekl mezi má kolena, rozepnul si kalhoty, a já jsem se zvedla na lokty a chtěla ho vidět, a byl tvrdý a já jsem po něm sáhla, obemkla ho prsty, palcem přes vlhkou špičku, a on zaklel a nechal mě to chvíli dělat, díval se mi do očí, a pak mi ruku odsunul. „Až budu chtít. Teď chci být v tobě."
 
@@ -166,11 +166,11 @@ Vešel do mě pomalu, celý, jedním dlouhým tlakem, a oba jsme u toho vydechli
 
 „Zůstaň se mnou," řekl, když mi víčka klesla. „Koukej na mě. Chci tě vidět, když se uděláš na mým ptákovi."
 
-Sprostá věta, a rozsvítila mě jako zápalku. Přirážel hloub a tvrdě, deka se sunula po betonu, lopatky mi drhly o tu jednu studenou cihlu, a já jsem ho přitom celou dobu měla v očích, jeho zelený oči nade mnou, a třetí orgasmus přišel jinak než ty dva předtím — pomalu, zeširoka, ze všech stran zároveň, a v tu chvíli, ve vrcholu, kdy se mi sevřel celý vnitřek kolem něj a on zasténal a udělal se hluboko ve mně, mi vyhrkly slzy.
+Sprostá věta, a rozsvítila mě celou. Přirážel hloub a tvrdě, deka se sunula po betonu, lopatky mi drhly o tu jednu studenou cihlu, a já jsem ho přitom celou dobu měla v očích, jeho zelený oči nade mnou, a třetí orgasmus přišel jinak než ty dva předtím — pomalu, zeširoka, ze všech stran zároveň, a v tu chvíli, ve vrcholu, kdy se mi sevřel celý vnitřek kolem něj a on zasténal a udělal se hluboko ve mně, mi vyhrkly slzy.
 
 Ne z bolesti. Ne ze smutku. Z přetlaku — z toho, že tohle existuje a já o tom devět let nevěděla; že se dá být v jednom těle takhle celá; že mě někdo viděl až sem a neuhnul.
 
-Tomáš se nezalekl. Nezeptal se, jestli mě bolí, neomlouval se, nepřestal. Zůstal ve mně, čelo opřené o moje, a nechal mě plakat a brečela jsem mu do úst, když mě líbal, a on ty slzy nesmazával ani nekomentoval. Jenom zůstal přítomný. To bylo to jediný, co jsem potřebovala. Prosila jsem o přítomnost a dostala ji a plakala z toho jako z úlevy.
+Tomáš se nezalekl. Nezeptal se, jestli mě bolí, neomlouval se, nepřestal. Zůstal ve mně, čelo opřené o moje, a nechal mě plakat a brečela jsem mu do úst, když mě líbal, a on ty slzy nesmazával ani nekomentoval. Jenom zůstal přítomný.
 
 ---
 
@@ -188,19 +188,19 @@ Mlčeli jsme dál. Pak jsem řekla věc, kterou jsem říct nechtěla a stejně 
 
 Otočil hlavu. „Co?"
 
-„Loft. Nepronajmeš si ho. Ani kdybys chtěl." Slyšela jsem se a věděla, že nemluvím o loftu. „Tohle místo musí zůstat takhle. Bez závazků. Bez toho, aby bylo čímkoli jiným, než čím je."
+„Loft. Nepronajmeš si ho. Ani kdybys chtěl. Tohle místo musí zůstat takhle. Bez závazků. Bez toho, aby bylo čímkoli jiným, než čím je."
 
-Chvíli mě studoval těma očima. Pak řekl: „Já jsem fotograf chvil, ne lidí. Chvíle mají svůj čas a pak skončí. To není tragédie, to je jejich přirozenost."
+Chvíli mě studoval těma očima. Pak řekl: „Já jsem fotograf chvil, ne lidí. Chvíle mají svůj čas a pak skončí."
 
 „A ty nechceš být ničí stav."
 
-„Nechci být stav s nikým." Řekl to lehce, ale na vteřinu, na jedinou vteřinu, mu něco přejelo přes obličej, co tu lehkost usvědčilo ze lži, a já jsem to viděla a oba jsme předstírali, že ne. To byl první uzel na niti, kterou jsem si tehdy odmítla připustit — že chvíle nejdou vždycky vypnout, když dohrají; že někdy se chvíle zasekne a začne bolet jako trvalý stav, a že platit za to nebudu já.
+„Nechci být stav s nikým." Řekl to lehce, ale na vteřinu, na jedinou vteřinu, mu něco přejelo přes obličej, co tu lehkost usvědčilo ze lži, a já jsem to viděla a oba jsme předstírali, že ne.
 
 Oblékl se, sebral batoh. Foťák z něj celý večer ani nevyndal — všimla jsem si toho až teď, batoh opřený u dveří, zip zatažený. U dveří se otočil.
 
 „Tys dneska nefotil," řekla jsem.
 
-„Ne." Pověsil si batoh na rameno. „Fotím, abych si nechal věci, co se bojím ztratit. Dneska jsem si nechtěl nechat nic. Chtěl jsem to mít celý a pak pustit." Usmál se, a v tom úsměvu byla zase ta vteřina pravdy, kterou rychle schoval. „To bys měla vědět."
+„Ne." Pověsil si batoh na rameno. „Fotím, abych si nechal věci, co se bojím ztratit. Dneska jsem si nechtěl nechat nic. Chtěl jsem to mít celý a pak pustit." Usmál se. „To bys měla vědět."
 
 Odešel.
 

@@ -8,13 +8,13 @@ Koupil Malm z IKEA — bílý, rozkládací, se šuplíkama pod rámem, model za
 
 Říkám mu to devět let. *Vybíráš věci, jako bys odškrtával položky.* Říkám to jako kompliment, protože to tak zní, a jako výčitku, protože to tak myslím, a Martin slyší vždycky jen tu první půlku. To je dohoda, kterou jsme spolu nikdy neuzavřeli a přitom dodržujeme.
 
-Montoval dvě hodiny a dvanáct minut. Vím to přesně, protože jsem ten čas měřila — ne schválně, jen ze zvyku, controlling ze mě udělal člověka, který měří i to, co nikoho nezajímá. Seděla jsem na parapetu okna a kouřila a sledovala, jak postupuje zleva doprava, protože schéma postupuje zleva doprava. Jednou střelil do špatného otvoru, zaklel mezi zuby — potichu, ale slyšela jsem ho, slyším Martina i přes místnost —, vzal telefon, zvětšil si diagram, pochopil, co udělal, a opravil to. Bez paniky. Bez dramatu. S metodou.
+Montoval dvě hodiny a dvanáct minut. Vím to přesně, protože jsem ten čas měřila — ne schválně, jen ze zvyku, controlling ze mě udělal člověka, který měří i to, co nikoho nezajímá. Seděla jsem na parapetu okna a kouřila a sledovala, jak postupuje zleva doprava, protože schéma postupuje zleva doprava. Jednou střelil do špatného otvoru, zaklel mezi zuby — potichu, ale slyšela jsem ho, slyším Martina i přes místnost —, vzal telefon, zvětšil si diagram, pochopil, co udělal, a opravil to. Bez paniky, bez dramatu, s metodou.
 
-Devět let jsem tu metodu obdivovala. Pak jsem ji přestala vnímat. Teď mi připadá jako klimatizace v autě: funguje, takže si jí nevšímáte, a všimnete si jí, až když přestane — a Martin nepřestává.
+Devět let jsem tu metodu obdivovala. Pak jsem ji přestala vnímat. Teď mi připadá jako klimatizace v autě: funguje, takže si jí nevšímáte, a všimnete si jí, až když přestane.
 
 Cigarety byly nový. Tedy starý a nový zároveň. Kouřila jsem do osmadvaceti — poslední tři roky balíček denně — a pak jsem ze dne na den přestala, protože jsem si spočítala, kolik mě to ročně stojí, a to číslo se mi nelíbilo. Sedm let jsem nekouřila. Sedm čistých let, jeden po druhém odškrtnutých, až do toho dubna na benzínce. A pak jsem v dubnu zastavila na benzínce na Strossmayerově a koupila Camel Light, protože nic jiného neměli, a já jsem ani nechtěla zrovna Camel, chtěla jsem mít v ruce důvod dívat se z okna místo na lidi.
 
-Nechutnaly mi, jak to u Camelů bývá. O to nešlo. Šlo o ten pohyb — vytáhnout, zapálit, vydechnout —, o to, že na pět minut mám co dělat s rukama a očima, aniž bych musela být užitečná. V práci takové přemýšlení neuznávám. Neúčelné, bez výstupu, nezúčtovatelné. V loftu jsem si ho dovolila. V loftu jsem si dovolila spoustu věcí, které jsem si jinde nedovolila, a tehdy, v dubnu, jsem ještě nevěděla, že právě tohle je celá ta věc.
+Nechutnaly mi, jak to u Camelů bývá. O to nešlo. Šlo o ten pohyb — vytáhnout, zapálit, vydechnout —, o to, že na pět minut mám co dělat s rukama a očima, aniž bych musela být užitečná. V práci takové přemýšlení neuznávám. Neúčelné, bez výstupu, nezúčtovatelné. V loftu jsem si ho dovolila. V loftu jsem si dovolila spoustu věcí, které jsem si jinde nedovolila.
 
 ---
 
@@ -34,9 +34,9 @@ Martinovi jsem řekla, že jsem koupila prostor v Holešovicích.
 
 Řekla jsem: *jako investici.*
 
-Nebyla to pravda a nebyla to úplně lež — záleží, jak to počítáte. Investice je něco, od čeho čekáte výnos. Já jsem od toho loftu výnos čekala. Jen ne ten, který by Martin uměl zaúčtovat, a tak jsem mu dala slovo, kterému rozumí, a on ho přijal, protože Martin přijímá slova, kterým rozumí, a neptá se po těch, kterým by nerozuměl. To je další z našich nesepsaných dohod.
+Nebyla to pravda a nebyla to úplně lež — záleží, jak to počítáte. Investice je něco, od čeho čekáte výnos. Já jsem od toho loftu výnos čekala. Jen ne ten, který by Martin uměl zaúčtovat, a tak jsem mu dala slovo, kterému rozumí, a on ho přijal, protože Martin přijímá slova, kterým rozumí, a neptá se po těch, kterým by nerozuměl.
 
-Takže když přivezl Malm a montoval ho na betonové podlaze v Nelině loftu a věřil, že staví postel do bytu, který jeho žena koupila jako investici — stavěl ji do cizího. Do prostoru, který nepatřil ani jednomu z nás. Věděla jsem to a mlčela jsem, a to mlčení byl první kámen něčeho, co jsem tehdy ještě neuměla pojmenovat. Dnes vím, že se to jmenuje *začátek*.
+Takže když přivezl Malm a montoval ho na betonové podlaze v Nelině loftu a věřil, že staví postel do bytu, který jeho žena koupila jako investici — stavěl ji do cizího. Do prostoru, který nepatřil ani jednomu z nás. Věděla jsem to a mlčela jsem, a to mlčení byl první kámen něčeho, co jsem tehdy ještě neuměla pojmenovat.
 
 ---
 
@@ -46,9 +46,7 @@ Elektrický, s plastovou izolací narůžovělou prachem. Bez zástrčky, bez ž
 
 Všimla jsem si ho hned napoprvé — ten první večer, co jsem si odemkla Nelinými klíči a stála v prázdném prostoru sama. Nela mi předtím do telefonu odříkala, co tu je, jako by mi prodávala byt, který sama nechce: *vysoký stropy, původní okna, ta světelnost je úplně jiná než jinde, elektriku bude potřeba předělat, je tam starej rozvod.* A já jsem chodila po betonu a poslouchala ji jen na půl ucha, protože jsem celou dobu koukala na ten kabel — jedinou věc v té místnosti, která se nesnažila být k něčemu.
 
-Kabel se o nic nesnažil. To mě na něm dostalo. Byl tam prostě proto, že byl, bez funkce, bez ospravedlnění, a nikomu se neomlouval. Firemní audit by ho odepsal jedním řádkem: *majetek bez ekonomické hodnoty, doporučeno k vyřazení.* A přesto visel dál. Existoval navzdory doporučení k vyřazení.
-
-Tehdy jsem si myslela, že o tom přemýšlím proto, že je to zvláštní detail prostoru. Trvalo mi skoro rok, než jsem pochopila, že jsem o sobě.
+Kabel se o nic nesnažil. To mě na něm dostalo. Byl tam prostě proto, že byl, bez funkce, bez ospravedlnění, a nikomu se neomlouval. Firemní audit by ho odepsal jedním řádkem: *majetek bez ekonomické hodnoty, doporučeno k vyřazení.* A přesto visel dál.
 
 ---
 
@@ -82,7 +80,7 @@ Pět vteřin ticha.
 
 „Jo," řekla jsem. „Bylo."
 
-Nelhala jsem. To je na tom to nejhorší. Nebylo to špatné. Bylo to přesně to, co to vždycky bylo — kompetentní, čisté, hotové —, a já jsem zjistila, že přesně to mi vadí. Že už devět let odpovídám *bylo to dobrý* a devět let to není lež, je to zaokrouhlení. Zaokrouhlenina, která projde auditem a ztratí detail.
+Nelhala jsem. To je na tom to nejhorší. Nebylo to špatné. Bylo to přesně to, co to vždycky bylo — kompetentní, čisté, hotové —, a já jsem zjistila, že přesně to mi vadí. Že už devět let odpovídám *bylo to dobrý* a devět let to není lež, je to zaokrouhlení.
 
 Martin vstal, šel do koupelny, umyl si ruce — vždycky si umyje ruce, je čistotný — a vrátil se v boxerkách, lehl si vedle mě a vzal do ruky telefon. Pusu měl trochu otevřenou, ten výraz, co dělá, když hledá wifi.
 
@@ -96,9 +94,9 @@ Martin vstal, šel do koupelny, umyl si ruce — vždycky si umyje ruce, je čis
 
 Vstala jsem a šla k oknu.
 
-Holešovice v neděli večer. Slunce zapadalo někde za panelákama nalevo a nechávalo na obloze pruhy — oranžový, šedý, jeden tenký zelenkavý, jaký bývá jen na jaře. Jeřáby v přístavu stály bez hnutí, jako vždycky, jako by čekaly na instrukce, které nepřijdou. Dole projela tramvaj a vydala ten svůj zvuk: trochu skřípání, trochu zpěvu, kov, který si zpívá pod nosem. Za ty měsíce jsem se k tomu zvuku přiučila tak, že mi začal připadat jako můj. První zvuk v životě, o kterém jsem si řekla, že je můj. To není málo, uvědomit si v pětatřiceti, že do té doby vám nepatřil ani zvuk.
+Holešovice v neděli večer. Slunce zapadalo někde za panelákama nalevo a nechávalo na obloze pruhy — oranžový, šedý, jeden tenký zelenkavý, jaký bývá jen na jaře. Jeřáby v přístavu stály bez hnutí, jako vždycky, jako by čekaly na instrukce, které nepřijdou. Dole projela tramvaj a vydala ten svůj zvuk: trochu skřípání, trochu zpěvu, kov, který si zpívá pod nosem. Za ty měsíce jsem se k tomu zvuku přiučila tak, že mi začal připadat jako můj. První zvuk v životě, o kterém jsem si řekla, že je můj.
 
-Opřela jsem dlaň o sklo. Bylo studené — venku se dělalo jaro, ale okno si pamatovalo zimu a vracelo mi ji do ruky. Na skle zůstal otisk dlaně, lehce zaprášený, jako by si sklo bralo za ten dotek daň.
+Opřela jsem dlaň o sklo. Bylo studené — venku se dělalo jaro, ale okno si pamatovalo zimu a vracelo mi ji do ruky. Na skle zůstal otisk dlaně, lehce zaprášený.
 
 *Tvoje rozhodnutí,* pomyslela jsem si.
 
@@ -116,7 +114,7 @@ Kabel v rohu byl ve stínu, mimo dosah posledního světla z okna.
 
 Ráno uvařil dvě kávy.
 
-Jednu přinesl mně — bez cukru, s troškou mléka, přesně jak ji piju. Devět let a pamatuje. Tohle je ta část manželství, kterou máte rádi a která zároveň nestačí, a nikdo vám neřekne, že se ty dvě věci nevylučují. Že můžete být vděční za muže, který si pamatuje vaši kávu, a přitom umírat na to, že je to to nejintimnější, co spolu máte.
+Jednu přinesl mně — bez cukru, s troškou mléka, přesně jak ji piju. Devět let a pamatuje. Tohle je ta část manželství, kterou máte rádi a která zároveň nestačí.
 
 „Jak ses vyspala?"
 
@@ -140,9 +138,9 @@ Nepoložil ji.
 
 „Tak v sedm," řekl a zavřel za sebou.
 
-A já jsem zůstala stát uprostřed cizího loftu se svou kávou a poprvé mě napadlo, že Martin možná vidí víc, než ukazuje. Že to mlčení nebyla nevšímavost. Že byla volba — stejná volba, jakou jsem před chvílí dělala já, když jsem mlčela o tom, čí ten loft je. Že v tomhle jsme si možná podobnější, než jsem ochotná připustit: dva lidé, kteří se naučili, že některé otázky je bezpečnější nepoložit.
+A já jsem zůstala stát uprostřed cizího loftu se svou kávou a poprvé mě napadlo, že Martin možná vidí víc, než ukazuje. Že to mlčení nebyla nevšímavost, ale volba — stejná, jakou jsem před chvílí dělala já, když jsem mlčela o tom, čí ten loft je.
 
-Bylo to první ráno, kdy mi Martin přišel zajímavý. Po devíti letech. To by mělo něco znamenat, a znamenalo to, jen jsem tehdy nevěděla co.
+Bylo to první ráno, kdy mi Martin přišel zajímavý. Po devíti letech.
 
 ---
 
@@ -150,7 +148,7 @@ Odjel v devět. Já zůstala.
 
 Sedla jsem si na parapet, vzala cigaretu — zbyly mi čtyři —, zapálila a dívala se na Holešovice, jak se probouzejí do všedního dne. Dole se otevíraly rolety obchůdku na rohu. Někdo vynesl popelnice. Tramvaj, další tramvaj.
 
-Kouřila jsem a v hlavě jsem si přerovnávala tu jednu nesedící položku. Čtyřicet tisíc, které se ztratily mezi řádky. A napadlo mě — ne poprvé, ale poprvé tak jasně —, že chyba není ve výpočtu. Že je v zadání. Že jsem celé roky znovu a znovu počítala odpověď na otázku, kterou nikdo nepoložil správně, a divila se, že mi nevychází.
+Kouřila jsem a v hlavě jsem si přerovnávala tu jednu nesedící položku. Čtyřicet tisíc, které se ztratily mezi řádky. A napadlo mě, teď jasněji než kdy dřív, že chyba není ve výpočtu. Že je v zadání. Že jsem celé roky znovu a znovu počítala odpověď na otázku, kterou nikdo nepoložil správně, a divila se, že mi nevychází.
 
 V práci to umím. Když mi něco nesedí, nepřepočítávám to potřetí. Otočím list a zeptám se, jestli je dobře položená otázka.
 
@@ -158,7 +156,7 @@ V životě jsem to neuměla nikdy.
 
 Možná to bylo totéž.
 
-Zbyly mi čtyři cigarety. Typ člověka, kterým jsem byla v pětatřiceti, by tu otázku odložil, dokouřil a jel na poradu. Já jsem dokouřila a na poradu jela taky — ještě jsem byla pořád ten typ člověka. Ještě pár týdnů.
+Zbyly mi čtyři cigarety. Typ člověka, kterým jsem byla v pětatřiceti, by tu otázku odložil, dokouřil a jel na poradu. Já jsem dokouřila a na poradu jela taky.
 
 Ale otázku jsem si tentokrát nechala otevřenou. Nezaúčtovala jsem ji. Nechala jsem ji viset, narůžovělou prachem, bez zástrčky, v rohu, kde na ni padne pohled, kdykoli zvednu hlavu.
 
