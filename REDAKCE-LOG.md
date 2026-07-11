@@ -1147,3 +1147,68 @@ Sašin idiolekt (účetní slovník, „Jo.", hovorové koncovky); Martinovy oš
 2. Sebe-výklad po jevu („a došlo mi, že… a znamenalo to, že…") — jev nechat,
    závěr škrtnout; čtenář na to přijde.
 3. „Ne X. Y." — silná figura jen dokud je vzácná.
+
+---
+
+## VELKÁ REVIZE II — DRUHÁ PŮLKA (revize/ kap. 17–25, nové kapitoly)
+
+**Datum:** 2026-07-11. **Zadání autora:** kapitoly 17–33 originálu byly
+nedopracované — fragmenty bez dialogů a scén; požadavek: konzistentní délka
+a kvalita jako 01–16, dialogy, klidně nové epizodní postavy.
+
+### Přestavba: z 17 fragmentů (136–2084 slov) 9 kapitol (1395–1464 slov)
+
+| nová kapitola | staví z originálů | dějová práce |
+|---|---|---|
+| 17 Trhlina (Kap. 12) | 21, 28, 20 | osa 2: Nela vystaví účet („Klíče si nech. Ale zazvoň.") |
+| 18 Průsak (Kap. 13) | 24, 17, seed z 02 | osa 3: Hana z HR na Salonu; Davidova „karta" splácí |
+| 19 Matka (Kap. 13½) | nová (bible) | osa 3: matka vytuší; „položka pod ubrouskem" |
+| 20 Noc doma (Kap. 14) | 23, 22, 17 | lano/šátek doma; silvestrovský výkaz S cenami |
+| 21 Leden (Kap. 15) | 18, 19 | prodej loftu ve hře; sen o kabelu jako dialog |
+| 22 Workshop (Kap. 16) | 18, 19, 25 | Simonin ripple; „odvaha, nebo zoufalství" |
+| 23 Jaro (Kap. 16½) | 19, 27 | Nelina nabídka odkupu, deadline; flashback ženy z metra |
+| 24 Sicílie (Kap. 17) | 26, 29 | finále platí: účet roku nahlas, NE loftu, jizva manželství |
+| 25 Posledně (kóda) | 31, 32, 27-epilog | JEDINÁ kóda; kabel němý (33 zrušena dle plánu) |
+
+### Klíčová rozhodnutí (dle ANALYZA-A-PLAN-REVIZE.md)
+
+- **Tři kódy → jedna** (31+32+33): Adam ve scéně s dialogem, roční doby jako
+  můstky, poslední návštěva končí činem. **Vysvětlení kabelu z kap. 33
+  („záhada jsem byla já") zrušeno** — symbol zůstává němý.
+- **Sicílie = rozhodnutí, ne aftercare:** nová linka Neliny nabídky odkupu
+  (setup 21→23, payoff 24). Saša odmítne a nese cenu („cizí lidi tam budou
+  bydlet a nebudou vědět o kabelu… To je cena. Beru ji."). Martin vážně
+  oponuje (postel) — konflikt se nerozpouští v souhlasu.
+- **Osa 2 dokončena:** selhání z kap. 06/08 („ozvi se, kdyby něco") splaceno
+  v Trhlině; přátelství pokračuje jinak (zvonění jako rituál napříč 21/23/25).
+- **Osa 3 otevřena a NEuzavřena:** Hana/David zůstávají živou položkou
+  (18→21→24) — hrozba bez rozuzlení je součást účtu.
+- **Rozpory z bible vyřešeny:** „měsíc před tím, než jsem Martinovi řekla
+  vše" (kap. 31) odstraněno; Adam→Brno doplněna expozice; časování drží
+  jeden kalendářní rok + rok 2.
+
+### Nové epizodní postavy
+
+Hana (personalistka, Salon, „HR si věci pamatuje, i když je nechce") + tichý
+Ondra; Marek (Simonin partner); Božena a kocour, táta Jirka (telefon);
+prodavačka sazenic; prodavač na Ballarò („Non una galleria"); číšník,
+účastníci workshopu (starší pár, kluk v mikině). Sex nových postav: žádný —
+explicitní scény zůstávají u zavedených vztahů (Salon 18, doma 20, Sicílie 24).
+
+### Zásahy strážce při přejímce (každou kapitolu četl šéfredaktor celou)
+
+- 18: časování „loni"→„na jaře" (3×), svařák z trouby na plotnu.
+- 17: Nelin idiolekt („von/vodsaď" pryč).
+- 20: logika safe wordu („Pořád platí výkaz?" — „Platí."), ne „neplatí".
+- 21: třetí opakování motivu „nepočítala nic" odstraněno.
+- 22: Simonin partner Ondřej→Marek (kolize s Ondrou z 18).
+- 23: „skoro rok" (klíče od dubna, je březen).
+- 24: kontinuita chobotnic (dokument, ne galerie).
+- 25: káva bez cukru (kánon), formulace gauče.
+
+### Stav rukopisu
+
+revize/ má nyní 25 kapitol, 01–25, délky ~1250–1750 slov (nové 1395–1464).
+Originály 17–33 zůstávají v kořeni nedotčené (nedestruktivní pravidlo).
+Další krok dle CLAUDE.md: kontrolní průchod `konzistence` nad 17–25 a poté
+větné vrstvy (klišé/smysly/rytmus) nad novým textem, až autor řekne.
