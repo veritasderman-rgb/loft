@@ -74,7 +74,7 @@ Na Andělu vstala a vyšla ven. Dívala se přitom pod nohy, aby nezakopla o mez
 
 ---
 
-V neděli jsme jeli na Náměstí Míru, na trh pod kostelem. Stánky se sazenicema stály v řadě podél zábradlí, bedýnky s macešema, rajčatový sazenice v černých kelímkách, cedulky psaný fixou. Táhla od nich mokrá hlína a pošlapaná zeleň. Prodavačka v zelený zástěře, ruce od hlíny až po lokty, nám vysvětlovala, který rajčata jsou keříkový a který se musí vyvazovat, a Martin poslouchal, jako by ho z toho zkoušeli.
+V neděli jsme jeli na Náměstí Míru, na trh pod kostelem. Stánky se sazenicema stály v řadě podél zábradlí, bedýnky s macešema, rajčatový sazenice v černých kelímkách, cedulky psaný fixou. Táhla od nich mokrá hlína a pošlapaná zeleň. Prodavačka v zelený zástěře, ruce od hlíny až po lokty, nám vysvětlovala, který rajčata jsou keříkový a který se musí vyvazovat. Martin poslouchal, jako by ho z toho zkoušeli.
 
 Vzal dvě sazenice rajčat. Já jsem u vedlejšího stánku sáhla po bazalce, protože když jsem se jí dotkla, zavoněla ostře, skoro po hřebíčku.
 
@@ -86,7 +86,7 @@ U kaktusů jsem se zastavila. Tři malý, každej jinej, v plastových kelímká
 
 Koupili jsme rajčata, bazalku a tři kaktusy.
 
-Doma jsme je rozsadili na balkoně. Martin klečel nad květináčem, hlínu bral hrstma z pytle a cpal ji kolem kořenů, palcem přitlačoval kraje. Pod nehtama měl černo. Škrábl se přitom o čelo a zůstal mu tam pruh hlíny, kterej si neuvědomoval, a já jsem mu to chvíli nechtěla říct.
+Doma jsme je rozsadili na balkoně. Martin klečel nad květináčem, hlínu bral hrstma z pytle a cpal ji kolem kořenů, palcem přitlačoval kraje. Pod nehtama měl černo. Škrábl se přitom o čelo a zůstal mu tam pruh hlíny, kterej si neuvědomoval. A já jsem mu to chvíli nechtěla říct.
 
 „Ty se budeš starat o rajčata," řekla jsem. „Já o kaktusy."
 

@@ -42,7 +42,7 @@ Prodavač — šedesátník, bílý tričko, ruce rozpraskaný od soli a šupin 
 
 „Že tohle je jeho práce. Ne galerie."
 
-Martin přikývl, jako by dostal za pravdu a lekci naráz. Koupili jsme dvě ryby, jmény, který neznám v italštině ani v češtině, a prodavač nás poslal do hospody naproti, kde nám je za dvě hodiny usmažili — celý, kůže od oleje křupavá, vedle plátek citronu a hrubá sůl.
+Martin přikývl, jako by dostal za pravdu a lekci naráz. Koupili jsme dvě ryby, jmény, který neznám v italštině ani v češtině. Prodavač nás poslal do hospody naproti, kde nám je za dvě hodiny usmažili — celý, kůže od oleje křupavá, vedle plátek citronu a hrubá sůl.
 
 „Lepší v jídle než jako instalace," řekl Martin nad talířem.
 
