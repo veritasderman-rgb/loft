@@ -108,7 +108,7 @@ V únoru, druhý rok, v neděli ráno, jsme s Martinem stáli v kuchyni a neděl
 
 „Já vím. Ptám se devět let ze slušnosti."
 
-Nalil vodu, počkal, dolil zbytek. Postavil hrnek přede mě tak, aby ucho směřovalo k mojí ruce.
+Nalil vodu, počkal, dolil zbytek; kuchyní se rozešla čerstvá káva. Postavil hrnek přede mě tak, aby ucho směřovalo k mojí ruce.
 
 „Co dneska," řekl.
 
@@ -140,11 +140,11 @@ Po Sicílii, koncem léta, jsem napsala Nele.
 
 *Jdi,* přišlo za chvíli. *Klíče máš. Já tam nebudu.*
 
-Přišla jsem dopoledne. Odemkla jsem a loft byl prázdný a plný světla — toho dopoledního, co jde velkým oknem skoro od podlahy ke stropu a leží na betonu v pruzích.
+Přišla jsem dopoledne. Odemkla jsem a loft byl prázdný a plný světla — toho dopoledního, co jde velkým oknem skoro od podlahy ke stropu a leží na betonu v pruzích. V pruzích visel prach a nehýbal se.
 
 Věci zůstaly. Bílá postel z IKEA u zdi, přehozená dekou. Staré křeslo z Vinohrad. Lampa u okna. Deka na podlaze, srovnaná do obdélníku. Prostor, který jsem nepřevzala, když se nabízel — Nela ho zatím nechává, jak je. Pro lidi. Pro kohokoli, kdo bude jednou potřebovat jinak.
 
-Stoupla jsem si k oknu, jako jsem tam stávala loni s cigaretou, kterou už nekouřím. Střechy, jeřáby v přístavu, řeka za nimi. Jeřáby stály jako vždycky, nehnuté, jako by čekaly na instrukce, které nepřijdou. Dole zazvonila tramvaj. Okno jsem neotevřela, jen jsem chvíli stála a dívala se, a pak jsem přešla přes betonovou podlahu. Kroky se v prázdném loftu rozléhaly jinak než dřív — dřív tu byly deky, těla, hlasy, a zvuk se neměl kam vracet.
+Stoupla jsem si k oknu, jako jsem tam stávala loni s cigaretou, kterou už nekouřím. Střechy, jeřáby v přístavu, řeka za nimi. Jeřáby stály jako vždycky, nehnuté, jako by čekaly na instrukce, které nepřijdou. Dole zazvonila tramvaj. Okno jsem neotevřela, jen jsem chvíli stála a dívala se, a pak jsem přešla přes betonovou podlahu. Pod podrážkou zaskřípala zrnka na betonu. Kroky se v prázdném loftu rozléhaly jinak než dřív — dřív tu byly deky, těla, hlasy, a zvuk se neměl kam vracet.
 
 Došla jsem k rohu.
 
@@ -160,7 +160,7 @@ Zavřela jsem za sebou. Zamkla. Klíče jsem strčila do kapsy.
 
 Na schodišti bylo chladno a byl tam ten pach starého domu, vápno a dřevo, který si nesu z každé návštěvy až domů. Prošla jsem kolem dveří v patře pod loftem, za nimiž teď bydlel někdo cizí; zevnitř hrálo rádio a vonila káva. Nezastavila jsem se.
 
-Venku bylo pozdní léto, dopoledne, ostré světlo. Dole skřípala tramvaj do zatáčky. Podzim se teprve chystal — listí drželo, mlhy ještě nechodily, přístav byl ještě plný. Sešla jsem po schodech a šla ulicí dolů, k zastávce.
+Venku bylo pozdní léto, dopoledne, ostré světlo a teplo, co po chladném schodišti padlo na ruce. Dole skřípala tramvaj do zatáčky. Podzim se teprve chystal — listí drželo, mlhy ještě nechodily, přístav byl ještě plný. Sešla jsem po schodech a šla ulicí dolů, k zastávce.
 
 ---
 
