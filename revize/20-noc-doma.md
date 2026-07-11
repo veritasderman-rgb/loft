@@ -116,7 +116,7 @@ Nešli jsme nikam. Martin koupil láhev něčeho šumivého a k tomu řízky, pr
 
 Kolem jedenácté na gauči usnul. Prostě usnul — hlava zvrácená, pusa pootevřená, ruka spadlá z opěradla. Čtyřicátník, co nevydrží do půlnoci. Nechala jsem ho.
 
-Šla jsem do kuchyně. Nalila si sklenici vody a sedla si na zem, zády k lince, dlažba studená přes tepláky. Přes město začaly první rachejtle, netrpělivé, předčasné — tady jedna, tamhle dvě. Z kuchyňského okna je vidět kus Prahy a nad ním, daleko, směrem k Holešovicům, kde stojí loft, vylétla zelená koule a rozpadla se do jisker; rána dolehla o vteřinu později, tlumená sklem.
+Šla jsem do kuchyně. Nalila si sklenici vody a sedla si na zem, zády k lince, dlažba studená přes tepláky. Přes město začaly první rachejtle, netrpělivé, předčasné — tady jedna, tamhle dvě. Z kuchyňského okna je vidět kus Prahy a nad ním, daleko, směrem k Holešovicům, kde stojí loft, vylétla zelená koule a rozpadla se do jisker. Rána dolehla o vteřinu později, tlumená sklem.
 
 Chvíli jsem jen seděla. Voda v ruce, nohy studené od dlažby, a v hlavě nic, co by se hnalo stát větou.
 
@@ -166,4 +166,4 @@ Díval se z okna, jak nad Holešovicemi vylétají koule a padají. Chvíli nic.
 
 „Nejlíp se dělá, když nikdo nekouká."
 
-Zasmál se do skla. Opřel se ramenem o mě. Venku nad městem třeskla poslední velká salva a pak řídly, jednotlivě, jak lidem docházely rachejtle. Seděli jsme na studené dlažbě, dokud nebylo skoro ticho, a pak jsem vstala a šla pro deku, aby nám nebyla zima.
+Zasmál se do skla, opřel se ramenem o mě. Venku nad městem třeskla poslední velká salva a pak řídly, jednotlivě, jak lidem docházely rachejtle. Seděli jsme na studené dlažbě, dokud nebylo skoro ticho, a pak jsem vstala a šla pro deku, aby nám nebyla zima.

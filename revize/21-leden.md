@@ -26,7 +26,7 @@ Martin dojedl, otřel nůž o kraj talíře, položil ho.
 
 Nela zavolala dopoledne, když jsem seděla sama a kočka mi ležela na klíně jako závaží.
 
-Zavolala. Ne napsala mezi dvěma jinýma věcma — zavolala a měla čas. Po listopadu to nebyla maličkost, i když to tak neznělo, a já jsem si to zaznamenala a nechala ležet, protože rozebírat to nahlas by bylo zase to moje.
+Zavolala. Ne napsala mezi dvěma jinýma věcma — zavolala a měla čas. Po listopadu to nebyla maličkost, i když to tak neznělo. A já jsem si to zaznamenala a nechala ležet, protože rozebírat to nahlas by bylo zase to moje.
 
 „Sašo. Chci ti něco říct."
 
@@ -76,7 +76,7 @@ Zavěsily jsme. Držela jsem telefon v dlani ještě chvíli po tom, co zhasla o
 
 Odpoledne jsem šla ven, bez záměru. Mráz byl suchej, štípal do nosu a do konečků prstů skrz rukavice. Chodníky prošlapaný do lesklýho, na okrajích šedý sníh smíchanej s posypem, co skřípal pod podrážkama.
 
-Došla jsem dolů k přístavu. Voda nebyla zamrzlá, jen zpomalená, tmavá jak asfalt, u břehu blána ledu, kterou nikdo nerozbil. Lodě přivázaný, kryty plachtama, co vítr nadzvedával a pouštěl s plesknutím. Jeřáby stály nad tím vším jak vždycky, nehybný, čekající na instrukce, který v lednu nikdo nedá. Stála jsem chvíli u zábradlí, ruce v kapsách, dokud mi mráz nezalezl pod límec, a pak jsem se otočila zpátky nahoru do ulic.
+Došla jsem dolů k přístavu. Voda nebyla zamrzlá, jen zpomalená, tmavá jak asfalt, u břehu blána ledu, kterou nikdo nerozbil. Lodě přivázaný, kryty plachtama, co vítr nadzvedával a pouštěl s plesknutím. Jeřáby stály nad tím vším jak vždycky. Nehybný, čekající na instrukce, který v lednu nikdo nedá. Stála jsem chvíli u zábradlí, ruce v kapsách, dokud mi mráz nezalezl pod límec, a pak jsem se otočila zpátky nahoru do ulic.
 
 Kavárna na rohu, kam chodím, měla zamžený sklo a uvnitř zlatý světlo a pach mokrý vlny a mletý kávy. Objednala jsem si flat white, sedla ke stolu u okna a hřála si prsty o hrnek, dokud nezčervenaly a nezačaly píchat, jak se vracely k životu.
 
@@ -164,7 +164,7 @@ Zasmála jsem se do talíře.
 
 Martin pokrčil rameny. „Tak ho prodá. Sicílie bude Sicílie tak jako tak." Odmlčel se, dojedl. „Ten prostor jsme si nepřinesli domů v cihlách, Sašo. Tohle jo." Ukázal vidličkou někam mezi nás dva a talíře, ne na nic konkrétního, a vrátil se k jídlu, jako by neřekl nic velkýho.
 
-Za oknem svítila Praha, dole cvakla tramvaj do výhybky. Chvíli jsme jen jedli a bylo to obyčejný, a to obyčejný mělo po tom roce cenu, kterou jsem si dřív neuměla naúčtovat.
+Za oknem svítila Praha. Dole cvakla tramvaj do výhybky. Chvíli jsme jen jedli a bylo to obyčejný, a to obyčejný mělo po tom roce cenu, kterou jsem si dřív neuměla naúčtovat.
 
 ---
 
