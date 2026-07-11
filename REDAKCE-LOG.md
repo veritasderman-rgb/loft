@@ -1212,3 +1212,46 @@ revize/ má nyní 25 kapitol, 01–25, délky ~1250–1750 slov (nové 1395–14
 Originály 17–33 zůstávají v kořeni nedotčené (nedestruktivní pravidlo).
 Další krok dle CLAUDE.md: kontrolní průchod `konzistence` nad 17–25 a poté
 větné vrstvy (klišé/smysly/rytmus) nad novým textem, až autor řekne.
+
+---
+
+## ZÁVĚREČNÉ SHRNUTÍ REDAKCE (2026-07-11)
+
+**Finál:** `_finalni.md` — 25 kapitol, ~37 500 slov, titulní strana z 00-titul.
+
+### Co proběhlo (v pořadí)
+
+1. **Vrstva autenticita** nad revize/01–16 (~230 zásahů, 5 vrácení strážce).
+2. **Velká revize II** — druhá půlka nově napsaná: 9 kapitol z 17 fragmentů
+   (1395–1464 slov, dialogy, osy 2 a 3, jediná kóda, kabel němý).
+3. **Konzistence** nad celkem — 7 oprav (klíče od dubna sjednoceny přes
+   kap. 1/4/16,5; Janino „loni"; Tomášův věk; Adam→Brno v létě), dodatek
+   kánonu do `_bible.md` §8.
+4. **Smysly** nad kap. 12–Posledně — 39 zásahů (pach, teplota, zvuk pod
+   dialogem); strážce vrátil bavlnu lana.
+5. **Rytmus** nad kap. 12–Posledně — 15 zásahů, jen interpunkce a sekání;
+   Posledně bez zásahu (záměrně pomalá).
+
+### Vzorce, které si autor má hlídat (z celé redakce)
+
+1. Pointa-epigram na konci odstavce — nechat max 1–2 na kapitolu.
+2. Sebe-výklad po jevu — jev nechat, závěr škrtnout.
+3. „Ne X. Y." — silné jen vzácné. 4. Ohlašování budoucnosti — nikdy.
+5. Motivy s řízenou frekvencí: „Tady jsem" 0×, „divně dobře" 0×,
+   „nepočítala jsem" jen kap. 7,75/8, „přesný/přesně" ~57× (hlídat).
+
+### Pasáže „silné — nesahat"
+
+- kap. 6 (Trojúhelník): „Odešel celý. Tomáš ne."
+- kap. 7,5 (Přiznání): Martinův čajový monolog + „Hezká fotka."
+- kap. 8 (Rozpuštění): záchrana ženy; „Tebe jsem nečetl devět let."
+- kap. 12 (Trhlina): „Klíče máš. Ale zvoň."
+- kap. 13,5 (Matka): položka pod ubrouskem; táta a ptáci.
+- kap. 17 (Sicílie): „To je cena. Beru ji." + ticho po jizvě manželství.
+- Posledně: dotyk kabelu bez vysvětlení, klíče do kapsy.
+
+### Vratnost
+
+Vše po commitech na větvi `claude/story-editing-authenticity-2t0ttv`
+(PR #18–21 + tento). `git log --oneline` = mapa zásahů po vrstvách;
+`git revert <hash>` vrací jednotlivé vrstvy. Originály v kořeni netknuté.
