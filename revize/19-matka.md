@@ -6,7 +6,7 @@ Vzala jsem si na středu volno. Do práce jsem napsala, že mám rodinnou návš
 
 Přijela v 10:14 na hlavní. Poznala jsem ji dřív, než ona mě — menší, než si ji pamatuju, v tom šedém kabátě, co nosí osm zim, s taškou, kterou nepustí z ruky, i když jí ji beru.
 
-Advent v Praze není z pohlednice. Šly jsme na trhy na Můstku, maminka chtěla svařák, tak jsme stály ve frontě u stánku, kde chlap v santa čepici naléval z termosky svařák, co táhl hřebíčkem a levným vínem, a bral jen hotově, a fronta se netlačila kupředu, jen houstla. Kolem Němci s foťáky, dvě děti řvaly u dřevěného kolotoče, z reproduktoru hrálo něco o Ježíškovi tak nahlas, že jsme na sebe musely mluvit blíž.
+Advent v Praze není z pohlednice. Šly jsme na trhy na Můstku, maminka chtěla svařák, tak jsme stály ve frontě u stánku, kde chlap v santa čepici naléval z termosky svařák, co táhl hřebíčkem a levným vínem, a bral jen hotově. Fronta se netlačila kupředu, jen houstla. Kolem Němci s foťáky, dvě děti řvaly u dřevěného kolotoče, z reproduktoru hrálo něco o Ježíškovi tak nahlas, že jsme na sebe musely mluvit blíž.
 
 „Za tohle bych doma udělala celej hrnec," řekla maminka, když viděla ceník. Ale vzala si, hřála si o kelímek ruce a byla spokojená. To na ní neumím: být proti něčemu a užívat si to zároveň.
 
@@ -50,7 +50,7 @@ Odpoledne jsme obešly marcipán a látku a dárek pro tátu — otvírák, kter
 
 „Pamatuje si, žes jí loni nosila kuřecí."
 
-Martin přišel v šest. Obvykle chodí v půl osmé, v osm. Ve dveřích měl sáček od pekaře — cestou vzal chleba a štrúdl, protože „babička nepřijede nadarmo", a maminka se zasmála a řekla mu, ať jí babička neříká, dokud není, a bylo to milé a pravdivé zároveň.
+Martin přišel v šest. Obvykle chodí v půl osmé, v osm. Ve dveřích měl sáček od pekaře — cestou vzal chleba a štrúdl, protože „babička nepřijede nadarmo". Maminka se zasmála a řekla mu, ať jí babička neříká, dokud není, a bylo to milé a pravdivé zároveň.
 
 Večeřeli jsme u kuchyňského stolu. Maminka přivezla ve sklenici svůj bramborový salát, „na zkoušku, jestli je dobrej na Vánoce", a nabídla ho nejdřív Martinovi.
 

@@ -4,7 +4,7 @@ Do loftu jsem přišla v listopadu, pár dní po střeše, a odemkla si vlastní
 
 Nela klečela uprostřed místnosti mezi krabicema.
 
-Ne v módu hostitelky. Džíny, stará mikina se skvrnou od tiskařský barvy na rukávu, vlasy stažený dozadu. Kolem ní čtyři kartony, jeden otevřenej, izolepa odmotaná a přeložená přes hranu, a táhlo z něj starým papírem a prachem. Na podlaze složka fotek, svazek dopisů převázanej gumičkou, porcelánovej ptáček bez ocasu. Listopad tlačil oknem to svý šedý světlo, co Praze říká, že za chvíli bude tma.
+Ne v módu hostitelky. Džíny, stará mikina se skvrnou od tiskařský barvy na rukávu, vlasy stažený dozadu. Kolem ní čtyři kartony, jeden otevřenej, izolepa odmotaná a přeložená přes hranu. Táhlo z něj starým papírem a prachem. Na podlaze složka fotek, svazek dopisů převázanej gumičkou, porcelánovej ptáček bez ocasu. Listopad tlačil oknem to svý šedý světlo, co Praze říká, že za chvíli bude tma.
 
 Zvedla hlavu. Nezvedla ji rychle.
 

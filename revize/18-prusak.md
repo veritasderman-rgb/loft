@@ -70,7 +70,7 @@ Odešla. Hrozba se nezažehnala. Jen dostala jméno a zůstala ležet v zásobn�
 
 ---
 
-O týden později, kvartální prezentace. Třináct lidí kolem stolu, já s reportingem. David seděl přes roh, modrá košile, hodinky. Kovář — šedesát, unavený — mě pustil ke slovu a pak se zeptal to svoje:
+O týden později, kvartální prezentace: třináct lidí kolem stolu, já s reportingem. David seděl přes roh, modrá košile, hodinky. Kovář — šedesát, unavený — mě pustil ke slovu a pak se zeptal to svoje:
 
 „Saša, co v těch číslech vidíte vy?"
 
