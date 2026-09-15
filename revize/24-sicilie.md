@@ -1,5 +1,43 @@
 ## Kapitola sedmnáctá: Sicílie
 
+Týden před odletem si mě Kovář zavolal do kanceláře. Nechal mě stát; na stole měl vytištěnou prezentaci pro představenstvo, moje jméno přeškrtnuté modrou propiskou.
+
+„Odprezentuje to Radek," řekl.
+
+„Proč."
+
+Srovnal papíry o hranu stolu. „Po firmě se řeší vaše soukromí. Nevím, co je pravda, a vědět to nechci. Ale teď potřebuju, aby finance nevzbuzovaly otázky."
+
+„Čísla sedí?"
+
+„Sedí."
+
+„Tak otázky nevzbuzují finance."
+
+Podíval se konečně na mě. „Nedělejte z toho spor, Sašo. Příští kvartál."
+
+Příští kvartál byla věta bez ceny pro člověka, který o tenhle právě přišel. Vzala jsem prezentaci ze stolu, i když ji měl odprezentovat Radek. Byla moje.
+
+Na chodbě čekala Hana. Opřená o parapet, ruce založené.
+
+„Já to nebyla," řekla.
+
+„Kdo."
+
+„Nevím. David pustil v kuchyňce narážku. Pak už to žilo samo."
+
+„A HR?"
+
+„HR eviduje, co vedení udělalo. Ne co si šeptá kuchyňka." Řekla to pracovním hlasem. Pak tišeji: „Je mi to líto."
+
+„Mně taky."
+
+Vrátila jsem se ke stolu a otevřela notebook. V boční kapse brašny jsem prsty nahmatala malé kovové USB od Tomáše. Nosila jsem ho od listopadu, aniž jsem o tom věděla. Položila jsem ho vedle klávesnice. Deset fotografií, které nikdo v práci neuvidí, a prezentace, kterou neuvidí ode mě.
+
+USB jsem zamkla do zásuvky. Prezentaci poslala Radkovi bez průvodní věty.
+
+---
+
 Přistáli jsme v Palermu ve čtvrtek dopoledne. Červen — jinej vzduch než pražskej, hustší, cítit v něm citrusy, benzín a moře. Martin se zastavil na schůdcích z letadla, na těch kovovejch, co se rozpalují od slunce, a chvíli jenom stál.
 
 „Devět let jsem tě neviděla zastavit se na schodech," řekla jsem.
@@ -96,7 +134,15 @@ Nechala jsem to dosednout. Vlna došla ke kameni a nedotáhla.
 
 „A v práci?"
 
-„V práci sedí ženská z HR, co ví, kde se scházím. Nezmizí. Čeká jako otevřená položka, na kterou nemám nápravný opatření."
+„Přišla jsem o kvartální prezentaci. Čísla byla moje, představenstvo ne. Kovář řekl, že finance nemají vzbuzovat otázky."
+
+Martin sebral další kamínek, ale nehodil ho. „Tohle jsi mi neřekla."
+
+„Nechtěla jsem, aby ses nabídl, že to spravíš."
+
+„Nabídl bych se."
+
+„Já vím."
 
 Martin chvíli mlčel. „To je hodně čísel."
 

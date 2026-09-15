@@ -4,11 +4,17 @@ Nela napsala ve středu: *Přijď v sobotu, jestli můžeš. Chci ti něco říc
 
 Došla jsem v sobotu kolem jedenácti. Před dveřma jsem se zastavila. Klíče jsem měla v kapse — od loňskýho dubna, skoro rok. Vytáhla jsem je, přehodila v dlani. Nechala je tam. Zvedla jsem ruku a zmáčkla zvonek.
 
-Chvíli ticho. Uvnitř krok. Bzučák.
+Chvíli ticho. Pak intercom zapraskal.
 
-Vešla jsem.
+„Ještě ne," řekla Nela. „Dej mi hodinu."
 
-Nela stála u okna se dvěma hrnkama kávy, jako by je nachystala přesně na tu chvíli, co zvoní zvonek. Loft byl za ní stejnej — velký okno skoro od podlahy, trám u stropu, deka složená v rohu. Podala mi hrnek.
+V jedenáct třicet jsme měly být na trhu na Míráku. Martin tam na mě čekal. Podívala jsem se na klíče v dlani; stačilo odemknout a vysvětlit jí, že už jsem tady.
+
+„Dobře," řekla jsem. „Přijdu ve dvanáct."
+
+Napsala jsem Martinovi, že trh nestihnu, a hodinu chodila kolem přístavu. Když jsem se vrátila, zazvonila jsem podruhé. Tentokrát se ozval bzučák.
+
+Nela stála u okna se dvěma hrnkama kávy. Loft byl za ní stejnej — velký okno skoro od podlahy, trám u stropu, deka složená v rohu. Podala mi hrnek.
 
 „Sedni si," řekla. „Nebudu chodit kolem."
 
@@ -74,7 +80,7 @@ Na Andělu vstala a vyšla ven. Dívala se přitom pod nohy, aby nezakopla o mez
 
 ---
 
-V neděli jsme jeli na Náměstí Míru, na trh pod kostelem. Stánky se sazenicema stály v řadě podél zábradlí, bedýnky s macešema, rajčatový sazenice v černých kelímkách, cedulky psaný fixou. Táhla od nich mokrá hlína a pošlapaná zeleň. Prodavačka v zelený zástěře, ruce od hlíny až po lokty, nám vysvětlovala, který rajčata jsou keříkový a který se musí vyvazovat. Martin poslouchal, jako by ho z toho zkoušeli.
+V neděli jsme se na Náměstí Míru vrátili spolu, na trh pod kostelem. Stánky se sazenicema stály v řadě podél zábradlí, bedýnky s macešema, rajčatový sazenice v černých kelímkách, cedulky psaný fixou. Táhla od nich mokrá hlína a pošlapaná zeleň. Prodavačka v zelený zástěře, ruce od hlíny až po lokty, nám vysvětlovala, který rajčata jsou keříkový a který se musí vyvazovat. Martin poslouchal, jako by ho z toho zkoušeli.
 
 Vzal dvě sazenice rajčat. Já jsem u vedlejšího stánku sáhla po bazalce, protože když jsem se jí dotkla, zavoněla ostře, skoro po hřebíčku.
 

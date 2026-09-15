@@ -20,11 +20,15 @@ Přikývla. „Aftercare. Co o něm víte?"
 
 „Co jsem četla. Vlastní zkušenost mám malou."
 
-„Aftercare je klíčový. Bez něj to předchozí neselže — ale zůstane to neuzavřený. Jako účet bez rozvahy." Usmála se mému výrazu. „Nepracuju ve financích. Ale mluvím s lidmi, co ano, a kradu jim metafory. Vy ste jedna z nich."
+„A potom?"
 
-„Controlling."
+„Potom co?"
 
-„Pak víte, co myslím." Vyměnily jsme čísla. A pak řekla ještě jednu věc, potichu: „A ještě něco, ať to nemusíte zjišťovat tak dlouho jako já. Mně trvalo třicet let, než jsem si připustila, že mě ta moc baví. A dalších dvacet, než jsem se za to přestala stydět. To máte padesát let, holka. Půlku z toho jsem se bála, že jsem zrůda." Odmlčela se. „Nebyla. Jen jsem to o sobě nevěděla. A jednou, na začátku, jsem nezastavila, když jsem měla. Submisivní mlčela a já to brala jako souhlas. Nezeptala jsem se. Nestalo se nic — ale mohlo. To ‚mohlo' si nesu dodneška." Podívala se na mě. „Tuhle chybu po mně nedělejte. Mlčení není souhlas."
+„Co s člověkem uděláte, až ho rozvážete."
+
+Nevěděla jsem.
+
+„Tak si nastudujte aftercare. Uzel zvládne každej s videem. Tohle se na videu rádo přeskočí." Vyměnily jsme čísla. A pak řekla ještě jednu věc, potichu: „A ještě něco, ať to nemusíte zjišťovat tak dlouho jako já. Mně trvalo třicet let, než jsem si připustila, že mě ta moc baví. A dalších dvacet, než jsem se za to přestala stydět. To máte padesát let, holka. Půlku z toho jsem se bála, že jsem zrůda." Odmlčela se. „Nebyla. Jen jsem to o sobě nevěděla. A jednou, na začátku, jsem nezastavila, když jsem měla. Submisivní mlčela a já to brala jako souhlas. Nezeptala jsem se. Nestalo se nic — ale mohlo. To ‚mohlo' si nesu dodneška." Podívala se na mě. „Tuhle chybu po mně nedělejte. Mlčení není souhlas."
 
 ---
 
@@ -120,12 +124,8 @@ Seděli jsme na pohovce. „Martine. To, co Simona řekla — že se bála zklam
 
 „Jo. Myslím, že jo."
 
-Karla mi zavolala druhý den, kontrolně. Řekla jsem jí to.
+Druhý den jsem Karle napsala: *Zastavila jsem sama.*
 
-„A zastavila ste sama, bez signálu od submisivní?"
+Odpověď přišla za minutu: *Dobře. A teď z toho nedělejte medaili.*
 
-„Jo. Cítila jsem, že víc by bylo moc."
-
-Ticho na lince. Pak: „Víte, jak tomu říkám? Patřičné mlčení. Mlčení je totiž dvojí, Saško. To první jsem vám vymlouvala v kuchyni — to, který si pleteme se souhlasem, mlčení toho, kdo se bojí říct stop. A pak je tohle druhý: člověk, kterej ví kdy a jak a nepotřebuje to vykřikovat. Vy ste dneska zastavila přesně v něm." Odmlčela se. „Mně to trvalo padesát let. Vám napoprvé." Zavěsila.
-
-Seděla jsem v kuchyni s telefonem v ruce. Venku říjnové Holešovice, tramvaj, vzdálený přístav. A já jsem poprvé za celý ten rok necítila, že něco hledám. Něco jsem uměla. Vědět, kdy přestat. A nenaučila jsem se to u žádného z těch mužů, ale sama — tím, že jsem se konečně přestala bát zklamat víc, než jsem se bála ublížit.
+Telefon jsem položila displejem dolů. Na stole zůstalo rozmotané červené lano. Smotala jsem ho až večer.

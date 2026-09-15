@@ -74,9 +74,9 @@ Potom jsme seděli tři na pohovce. Lenka si vlasy stáhla do drdolu, Vítek si 
 
 „Není to tak jiný, jak to vypadá zvenku."
 
-Chvíli mlčela. „Já si vždycky myslela, že žárlivost je přirozená. Jako zákon fyziky. Že prostě patří k lásce." Otočila hrnek v dlaních. „A teď, po dnešku, si myslím, že je naučená. Že jsem se naučila mít strach ze ztráty a říkala tomu láska. Že jsem celý manželství střežila Vítka před věcma, co by si možná ani nikdy nevzal, a tím střežením jsem ho utahala víc než jakákoli nevěra."
+Chvíli mlčela. „Celý manželství jsem Vítka hlídala před věcma, který si možná ani nechtěl vzít." Otočila hrnek v dlaních. „Člověk se tím hlídáním utahá."
 
-Bylo to přesné tak, že mě to píchlo — protože to nebylo o ní. Bylo to o mně a o Martinovi, jen řečené ústy cizí ženy, kterou jsem dnes viděla poprvé a naposledy.
+Podívala jsem se na svoje místo v rohu. Seděla jsem tam na její přání — a přesto jako pojistka.
 
 ---
 
@@ -88,14 +88,8 @@ Po chvíli zvedl hlavu. „Díky. Žes tu byla. Sám bych to nezvládl, ona taky
 
 „Jo. Pozdě."
 
-„Pozdě je taky čas," řekla jsem.
+„Jo. Pozdě."
 
-Díval se k oknu. „Sašo, jak ses stala takhle klidná?"
+Seděl s lokty na kolenou. Poprvé za dobu, co jsem ho znala, vypadal menší než prostor kolem něj.
 
-„Klidná nejsem. Jen jsem se přestala přetvařovat. A někdy si pletu klid s tím, že už nemám sílu se ptát, jestli neubližuju." Otočila jsem hrnek. „Dneska jsem se ptala. Seděla jsem támhle v rohu a chvíli jsem si nebyla jistá, jestli vám pomáhám, nebo jestli si jen ráda připadám potřebná. Pravda je nejspíš obojí. To je na tom to nepříjemný — že dobrá věc a sobecká věc bydlí čím dál častěji ve stejným těle. V mým."
-
-Vítek se na mě podíval dlouze. „To je buď hodně hluboký, nebo hodně blbý."
-
-„Může být obojí. To je celá moje letošní lekce."
-
-A pak jsme tam jen seděli, dva lidi po dni, který byl těžký a tichý zároveň, v loftu, kde věci smějí být i bez vysvětlení.
+Posunula jsem k němu svůj hrnek. Nevzal si ho. Seděli jsme vedle sebe a nic z toho jsme se nepokoušeli udělat lekci.

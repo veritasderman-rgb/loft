@@ -126,6 +126,6 @@ Vítek ještě chvíli ležel. Pak řekl, tiše, ke stropu: „Je to v pořádku
 
 Zůstala jsem sama na dece, mezi nohama mě hřáli oba a v hrudi mi něco táhlo a nešlo to zařadit do žádné kolonky.
 
-Ráno přišla od Tomáše zpráva. Žádný text — jen jedna fotka. Ta jeho, stará, z úplně prvního focení: kabel v rohu, v centru záběru, a za ním kus Holešovic a ráno. Věc, co není na správným místě, a stejně tam patří. Na rozloučenou mi poslal zrovna tenhle snímek. Že on je ten kabel — že odchází, protože se zamiloval do prostoru, ve kterém nesmí zůstat zapojený.
+Ráno přišla od Tomáše zpráva. Žádný text — jen jedna fotka. Ta jeho, stará, z úplně prvního focení: kabel v rohu, trochu mimo střed, a za ním kus Holešovic a ráno. Na rozloučenou mi poslal zrovna tenhle snímek.
 
-Šla jsem v práci na záchod a brečela tam pět minut. Protože to bylo skutečný. Skutečnější než cokoli za hrozně dlouho. A poprvé jsem si k té skutečnosti připsala i účet: tentokrát zaplatil někdo jiný než já.
+Šla jsem v práci na záchod a brečela tam pět minut. Tentokrát zaplatil někdo jiný než já.

@@ -128,6 +128,6 @@ Martin míchal. Nechal ticho doběhnout, tak jak to umí.
 
 „Tak to budeme vědět." Postavil přede mě talíř. „Jez, než to vystydne."
 
-Vzala jsem vidličku. Za oknem svítila Praha, dole cvakla tramvaj do výhybky. Nevěděla jsem, jestli to unesu do jara, do léta, jak dlouho se dá žít s položkou, která je pořád živá a čeká, až ji někdo vytáhne nahoru. Nevěděla jsem to.
+Vzala jsem vidličku. Nevěděla jsem, jak dlouho se dá žít s položkou, která čeká, až ji někdo vytáhne nahoru.
 
-Jedla jsem.
+Jídlo stydlo. Jedla jsem.

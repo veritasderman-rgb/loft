@@ -48,7 +48,7 @@ Starší muž, brýle pořád na špičce nosu: „A jak se to… domlouvá? To,
 
 „A funguje to?"
 
-„Funguje jenom tohle. Všechno ostatní je nádstavba."
+„Funguje jenom tohle. Všechno ostatní je nadstavba."
 
 Starší paní se poprvé ozvala. Mluvila k Martinovi. Jako by ženská odpověď u téhle otázky nestačila. „A vám… vám to nevadilo? Když vám to řekla."
 
@@ -88,61 +88,15 @@ Byla to moje věta. Dala jsem jí ji v říjnu, v loftu, přes kávu a přes jej
 
 ---
 
-O přestávce si lidi šli pro kávu do rohu. Kluk v mikině stál u okna a psal někomu do telefonu. Karla ke mně přišla s kelímkem.
-
-„Jde jim to," řekla. „Ptají se dobře."
-
-„Líp než já před rokem."
-
-„Vy ste se neptala. Vy ste počítala." Napila se. Chvíli jsme stály, dvě, u termosky, a bylo mezi námi to ticho, který jí nevadí a mně už taky ne.
-
-Zeptala jsem se jí potichu, aby to nebylo pro místnost: „Co jste nechtěla vidět vy? Tehdy, na začátku."
-
-Karla se nezarazila. Ženy, co si otázku kladly samy dost dlouho, se u ní nezarazí.
-
-„Že mám moc," řekla. „A bála jsem se jí. Ne že by byla špatná. Nevěděla jsem, jestli ji zasloužím."
-
-„A teď?"
-
-„Moc se nezasluhuje. Uznává se." Dopila. „Buď ji uznáte, nebo ne. Ona tam je tak jako tak."
-
-Postavila kelímek a šla svolat zbytek zpátky ke stolu.
-
----
-
-Po skončení se lidi trousili ven, natahovali si na chodbě bundy. Dívka vpředu si sbalila blok, na kterém teď něco bylo, a šla ke dveřím. Pak se otočila a vrátila se ke mně.
-
-„Promiňte. Mám ještě otázku."
-
-„Ptejte se."
-
-„Vy jste říkala, že jste šla první. A pak to Martinovi řekla. A on zůstal." Odmlčela se. „Jak jste věděla, že zůstane?"
-
-„Nevěděla jsem," řekla jsem.
-
-„A přesto jste mu řekla?"
-
-„Jo. Protože nebýt upřímná bylo horší než riziko, že odejde."
-
-Přikývla.
-
-„To je odvaha."
-
-„Nebo zoufalství," řekla jsem. „Tehdy jsem neznala rozdíl."
-
-Chtěla se zeptat na další, viděla jsem jí tu otázku *a teď?* na jazyku. Nezeptala se. Řekla jen díky a šla, a já jsem nevěděla, jak se jmenuje.
-
----
-
 Domů jsme šli pěšky. Bylo to pár zastávek tramvají, ale vzduch po přetopené místnosti chutnal studeně a ostře a únor byl někde na půl cesty do března. Chodníky suché, sníh jen ve stínu u zdí.
 
 Kolem prošla tramvaj, skřípla v oblouku a byla pryč. Martin si dal ruce do kapes. Nespěchal ani teď — čekal, až mu chodník ujde pod nohama tolik, kolik potřeboval.
 
-„Ta holka u dveří," řekl nakonec. „Co se ptala podruhý."
+„Ta holka, co se ptala jako první," řekl nakonec.
 
 „Jo."
 
-„Slyšel jsem to. Stál jsem kousek."
+„Pořád myslím na tu svoji odpověď. Že jsi důležitější než moje pohodlí."
 
 Nic jsem na to neřekla. Šli jsme dál, kolem lékárny, co už měla stažené mříže.
 

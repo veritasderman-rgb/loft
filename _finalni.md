@@ -3,8 +3,6 @@
 *(Příběh Saši Kratochvílové, která v sedm ráno věděla vše a o půlnoci nevěděla nic)*
 
 ---
-
-
 ## Kapitola první: Pokřtiny
 
 Postel jsme smontovali v neděli odpoledne.
@@ -170,8 +168,6 @@ Ale otázku jsem si tentokrát nechala otevřenou. Nezaúčtovala jsem ji. Necha
 *Co mi chybí?*
 
 Vyšla jsem z loftu, zamkla cizími klíči a jela počítat cizí čísla.
-
-
 ## Kapitola druhá: Teambuilding
 
 Hotel Říčany. Nebo Koloděje — nikdy jsem to přesně nevěděla, vím jen, že to byl hotel za Prahou s parkovištěm a příjezdovou cestou lemovanou stromy a že je odtud do města čtyřicet minut ve čtvrtek večer a hodina v pátek ráno. To jsou jediné relevantní údaje z pohledu controllingu.
@@ -359,8 +355,6 @@ Trochu mě zarazilo to *vy* — vypadal na pětadvacet, tetování na předlokt�
 „To nic."
 
 Pustila jsem ho s krabicemi a šla nahoru. Odemkla jsem Nelinými klíči, postavila se doprostřed prostoru, který nebyl můj, a poprvé mě napadlo, že jsem za poslední měsíc poznala víc cizích mužů než za předchozích devět let dohromady — a že jediný, koho jsem si přivedla domů do hlavy, je ten kluk od pásky, co se mě zeptal, jestli jsem *ta z loftu nahoře*, jako by loft byl něco, čím člověk je.
-
-
 ## Kapitola třetí: Hledáček
 
 Tomáš Brejcha mi napsal v úterý odpoledne a já jsem ten telefon držela v ruce o tři vteřiny dýl, než bylo normální.
@@ -568,8 +562,6 @@ Oblékl se, sebral batoh. Foťák z něj celý večer ani nevyndal — všimla j
 Odešel.
 
 Zůstala jsem ležet nahá na dece, mezi nohama mě hřál a štípal jeho otisk, a koukala jsem do stropu na ten kabel a poprvé jsem si nepřála, aby se na mě tak díval. Teď už se tak díval. A já jsem nevěděla, žárlit ještě, nebo se začít bát.
-
-
 ## Kapitola třetí a půl: Světlo odpoledne
 
 Po Tomášovi jsem šla do loftu třikrát sama, a pokaždé jsem si nesla jeho otisk jako modřinu, na kterou si musíš sáhnout, abys věděla, že tam ještě je.
@@ -685,8 +677,6 @@ Tohle to bylo. Ne loft jako útěk, ne jako experiment, ne jako postel pro cizí
 Tehdy jsem si řekla, že to zvládnu mít obojí.
 
 Zula jsem boty a šla bosá po betonu — studeném a upřímném, betonu, co o sobě netvrdí, že je čímkoli jiným než betonem — a stoupla si k oknu a dívala se ven a nemusela vědět nic.
-
-
 ## Kapitola čtvrtá: Večeře
 
 Nela Pokorná byla moje nejstarší pražská kamarádka a jediný člověk, kterému jsem nikdy nemusela nic vysvětlovat.
@@ -876,8 +866,6 @@ Lehla jsem si k němu zpátky na deku a on mi položil tu velkou ruku na bok a n
 Vstala jsem tiše a šla k oknu. Holešovice se probouzely, vzduch byl ještě čistý. Kabel v rohu měl v té rané hodině barvu — oranžovozlatou, jako čaj nalitý do bílého hrnku.
 
 *Tohle je jiné,* pomyslela jsem si. Měla jsem teď dva muže a každý mi dával něco, co ten druhý ne, a ještě jsem nevěděla, co s tím udělám. A poprvé za celý ten rok mi to nevědět nepřipadalo jako chyba ve výpočtu.
-
-
 ## Kapitola pátá: Trojúhelník
 
 Ta myšlenka přišla v pondělí ráno ve sprše — jako rovnice, co se přes víkend potichu dopočítala sama a jen mi předhodila výsledek.
@@ -1006,11 +994,9 @@ Vítek ještě chvíli ležel. Pak řekl, tiše, ke stropu: „Je to v pořádku
 
 Zůstala jsem sama na dece, mezi nohama mě hřáli oba a v hrudi mi něco táhlo a nešlo to zařadit do žádné kolonky.
 
-Ráno přišla od Tomáše zpráva. Žádný text — jen jedna fotka. Ta jeho, stará, z úplně prvního focení: kabel v rohu, v centru záběru, a za ním kus Holešovic a ráno. Věc, co není na správným místě, a stejně tam patří. Na rozloučenou mi poslal zrovna tenhle snímek. Že on je ten kabel — že odchází, protože se zamiloval do prostoru, ve kterém nesmí zůstat zapojený.
+Ráno přišla od Tomáše zpráva. Žádný text — jen jedna fotka. Ta jeho, stará, z úplně prvního focení: kabel v rohu, trochu mimo střed, a za ním kus Holešovic a ráno. Na rozloučenou mi poslal zrovna tenhle snímek.
 
-Šla jsem v práci na záchod a brečela tam pět minut. Protože to bylo skutečný. Skutečnější než cokoli za hrozně dlouho. A poprvé jsem si k té skutečnosti připsala i účet: tentokrát zaplatil někdo jiný než já.
-
-
+Šla jsem v práci na záchod a brečela tam pět minut. Tentokrát zaplatil někdo jiný než já.
 ## Záznamy I
 
 Tomáš mlčel tři týdny.
@@ -1118,8 +1104,6 @@ Ukázala jsem na jednu fotku, kde byl kabel: tmavý pruh na světlé zdi, kousek
 Brzy odešel. Já zůstala.
 
 V controllingu máme pro věc, co existuje, ale nesedí do žádné kolonky, termín: *mimo nomenklaturu.* Buď se pro ni založí nová kategorie, nebo se přehlíží tak dlouho, až zmizí z výkazu. Tomáš nevěděl, kam ho zařadím. Já taky ne. A věci, které se zařadit nedají, si dřív nebo později vezmou svoje, ať je do výkazu napíšu, nebo ne.
-
-
 ## Kapitola šestá: Nela
 
 Nela přišla bez ohlášení v sobotu v poledne — zazvonil intercom a na schodišti stála s lahví prosecca a s výrazem, co říkal: *potřebuju tě, ale neřeknu to nahlas, tak se neptej.*
@@ -1245,8 +1229,6 @@ Nela se tiše zasmála. „Controllingová terapie."
 „Mám, co mám." A pak, protože jsem jí dlužila aspoň kus pravdy zpátky: „Nelo. Příště mi nemusíš nosit prosecco a předstírat, žes přišla na drink. Můžeš přijít rovnou rozbitá. Já to někdy přehlídnu, ale můžeš mi to říct natvrdo."
 
 Podívala se na mě dlouho. „Já vím," řekla. „Ale to bych se musela nechat otevřít sekáčkem. A to já neumím. Učím to ostatní a sama to neumím."
-
-
 ## Kapitola sedmá: Druhá strana
 
 Ta myšlenka přišla od Nely, utroušená na okraj hovoru, mezi dvěma loky kávy.
@@ -1344,8 +1326,6 @@ Spát. To slovo mě píchlo, protože spát uměl v naší posteli vždycky jen 
 Vítek mě políbil na spánek a u dveří se otočil. „Dobrou. A ne abys to odkládala, dokud ti to za tebe neřekne někdo jinej. To by bylo nejhorší."
 
 Odešel. Já zůstala ležet a poprvé jsem nepřemýšlela o tom, co chci. Přemýšlela jsem o tom, co dlužím — a komu, a jak dlouho už ten dluh běží bez úroku, který se jednou bude muset splatit naráz.
-
-
 ## Kapitola sedmá a půl: Přiznání
 
 Řekla jsem mu to ve středu po večeři.
@@ -1441,8 +1421,6 @@ Zůstala jsem na dece v Nelině loftu, ve čtvrti, kterou jsem si zamilovala, v 
 Nepřespala jsem tam. Nešlo to. Jela jsem domů do bytu, kde nikdo nebyl, lehla si do postele, kterou Martin nestavěl, a nespala jsem, a poprvé jsem mu nezáviděla, že on spát umí — protože jsem věděla, že tu noc u Pavla na gauči nespí ani on.
 
 Ráno jsem si uvařila jedno kafe. Bez cukru, s trochou mléka. Stálo přede mnou na lince a já jsem se na ně dívala a nemohla ho pít, protože devět let mi ho nosil on, a já jsem teď seděla nad vlastním šálkem a poprvé mi došlo, že si po těch devět let pamatoval, jak ho piju. A že jsem mu to nikdy neřekla. A že nevím, jestli mi ho ještě někdy uvaří.
-
-
 ## Kapitola sedmá a tři čtvrtě: Gauč
 
 Martin byl u Pavla čtyři dny.
@@ -1548,8 +1526,6 @@ Položila jsem mu ruku na hruď. Cítila jsem pod ní srdce, jak jde rychleji, n
 „Tomáš se zamiloval a musel odejít," řekla jsem. „Vítek mi řekl, ať ti to povím. Nela je moje kamarádka devět let. Žádný z nich není víc dost než ty, Martine. Jenom jsou jiní. A tys za poslední dva tejdny udělal věc, kterou neudělal žádnej z nich — zůstal jsi."
 
 Neřekl na to nic. Jen mi nakreslil osmičku na zápěstí, přesně tam, kde po poutech zůstaly ty bledé pruhy.
-
-
 ## Kapitola osmá: Rozpuštění
 
 Salon Holešovice pořádal jednou za čtvrt roku Velký večer.
@@ -1661,8 +1637,6 @@ Zasmála jsem se poprvé od příjezdu. „Safe word je safe word."
 „Já vím. Jen je to dobrej výraz. Přesnej."
 
 Jel dál. A já jsem se dívala z okna na Prahu, jak se mění ulici za ulicí, a poprvé za hrozně dlouho jsem nepočítala vůbec nic.
-
-
 ## Kapitola osmá a půl: Lenka
 
 Vítek zavolal v úterý dopoledne. Byla jsem v práci, káva studená, zapomněla jsem ji vypít. Na displeji: *Vítek.*
@@ -1739,9 +1713,9 @@ Potom jsme seděli tři na pohovce. Lenka si vlasy stáhla do drdolu, Vítek si 
 
 „Není to tak jiný, jak to vypadá zvenku."
 
-Chvíli mlčela. „Já si vždycky myslela, že žárlivost je přirozená. Jako zákon fyziky. Že prostě patří k lásce." Otočila hrnek v dlaních. „A teď, po dnešku, si myslím, že je naučená. Že jsem se naučila mít strach ze ztráty a říkala tomu láska. Že jsem celý manželství střežila Vítka před věcma, co by si možná ani nikdy nevzal, a tím střežením jsem ho utahala víc než jakákoli nevěra."
+Chvíli mlčela. „Celý manželství jsem Vítka hlídala před věcma, který si možná ani nechtěl vzít." Otočila hrnek v dlaních. „Člověk se tím hlídáním utahá."
 
-Bylo to přesné tak, že mě to píchlo — protože to nebylo o ní. Bylo to o mně a o Martinovi, jen řečené ústy cizí ženy, kterou jsem dnes viděla poprvé a naposledy.
+Podívala jsem se na svoje místo v rohu. Seděla jsem tam na její přání — a přesto jako pojistka.
 
 ---
 
@@ -1753,19 +1727,11 @@ Po chvíli zvedl hlavu. „Díky. Žes tu byla. Sám bych to nezvládl, ona taky
 
 „Jo. Pozdě."
 
-„Pozdě je taky čas," řekla jsem.
+„Jo. Pozdě."
 
-Díval se k oknu. „Sašo, jak ses stala takhle klidná?"
+Seděl s lokty na kolenou. Poprvé za dobu, co jsem ho znala, vypadal menší než prostor kolem něj.
 
-„Klidná nejsem. Jen jsem se přestala přetvařovat. A někdy si pletu klid s tím, že už nemám sílu se ptát, jestli neubližuju." Otočila jsem hrnek. „Dneska jsem se ptala. Seděla jsem támhle v rohu a chvíli jsem si nebyla jistá, jestli vám pomáhám, nebo jestli si jen ráda připadám potřebná. Pravda je nejspíš obojí. To je na tom to nepříjemný — že dobrá věc a sobecká věc bydlí čím dál častěji ve stejným těle. V mým."
-
-Vítek se na mě podíval dlouze. „To je buď hodně hluboký, nebo hodně blbý."
-
-„Může být obojí. To je celá moje letošní lekce."
-
-A pak jsme tam jen seděli, dva lidi po dni, který byl těžký a tichý zároveň, v loftu, kde věci smějí být i bez vysvětlení.
-
-
+Posunula jsem k němu svůj hrnek. Nevzal si ho. Seděli jsme vedle sebe a nic z toho jsme se nepokoušeli udělat lekci.
 ## Kapitola devátá: Pouta
 
 Karlu Müllerovou jsem potkala na workshopu — ne tom s flipcharty a post-ity, ale v bytě v Dejvicích, osm lidí kolem stolu, téma: *Komunikace v alternativních vztazích.* Karla ho vedla sama. Jednašedesát let, krátké stříbrné vlasy, na stěně za ní kostým spletený z lana jako zátiší. Hlas tichý a nesmazatelný, ten typ, co nepotřebuje hlasitost.
@@ -1788,11 +1754,15 @@ Přikývla. „Aftercare. Co o něm víte?"
 
 „Co jsem četla. Vlastní zkušenost mám malou."
 
-„Aftercare je klíčový. Bez něj to předchozí neselže — ale zůstane to neuzavřený. Jako účet bez rozvahy." Usmála se mému výrazu. „Nepracuju ve financích. Ale mluvím s lidmi, co ano, a kradu jim metafory. Vy ste jedna z nich."
+„A potom?"
 
-„Controlling."
+„Potom co?"
 
-„Pak víte, co myslím." Vyměnily jsme čísla. A pak řekla ještě jednu věc, potichu: „A ještě něco, ať to nemusíte zjišťovat tak dlouho jako já. Mně trvalo třicet let, než jsem si připustila, že mě ta moc baví. A dalších dvacet, než jsem se za to přestala stydět. To máte padesát let, holka. Půlku z toho jsem se bála, že jsem zrůda." Odmlčela se. „Nebyla. Jen jsem to o sobě nevěděla. A jednou, na začátku, jsem nezastavila, když jsem měla. Submisivní mlčela a já to brala jako souhlas. Nezeptala jsem se. Nestalo se nic — ale mohlo. To ‚mohlo' si nesu dodneška." Podívala se na mě. „Tuhle chybu po mně nedělejte. Mlčení není souhlas."
+„Co s člověkem uděláte, až ho rozvážete."
+
+Nevěděla jsem.
+
+„Tak si nastudujte aftercare. Uzel zvládne každej s videem. Tohle se na videu rádo přeskočí." Vyměnily jsme čísla. A pak řekla ještě jednu věc, potichu: „A ještě něco, ať to nemusíte zjišťovat tak dlouho jako já. Mně trvalo třicet let, než jsem si připustila, že mě ta moc baví. A dalších dvacet, než jsem se za to přestala stydět. To máte padesát let, holka. Půlku z toho jsem se bála, že jsem zrůda." Odmlčela se. „Nebyla. Jen jsem to o sobě nevěděla. A jednou, na začátku, jsem nezastavila, když jsem měla. Submisivní mlčela a já to brala jako souhlas. Nezeptala jsem se. Nestalo se nic — ale mohlo. To ‚mohlo' si nesu dodneška." Podívala se na mě. „Tuhle chybu po mně nedělejte. Mlčení není souhlas."
 
 ---
 
@@ -1888,17 +1858,11 @@ Seděli jsme na pohovce. „Martine. To, co Simona řekla — že se bála zklam
 
 „Jo. Myslím, že jo."
 
-Karla mi zavolala druhý den, kontrolně. Řekla jsem jí to.
+Druhý den jsem Karle napsala: *Zastavila jsem sama.*
 
-„A zastavila ste sama, bez signálu od submisivní?"
+Odpověď přišla za minutu: *Dobře. A teď z toho nedělejte medaili.*
 
-„Jo. Cítila jsem, že víc by bylo moc."
-
-Ticho na lince. Pak: „Víte, jak tomu říkám? Patřičné mlčení. Mlčení je totiž dvojí, Saško. To první jsem vám vymlouvala v kuchyni — to, který si pleteme se souhlasem, mlčení toho, kdo se bojí říct stop. A pak je tohle druhý: člověk, kterej ví kdy a jak a nepotřebuje to vykřikovat. Vy ste dneska zastavila přesně v něm." Odmlčela se. „Mně to trvalo padesát let. Vám napoprvé." Zavěsila.
-
-Seděla jsem v kuchyni s telefonem v ruce. Venku říjnové Holešovice, tramvaj, vzdálený přístav. A já jsem poprvé za celý ten rok necítila, že něco hledám. Něco jsem uměla. Vědět, kdy přestat. A nenaučila jsem se to u žádného z těch mužů, ale sama — tím, že jsem se konečně přestala bát zklamat víc, než jsem se bála ublížit.
-
-
+Telefon jsem položila displejem dolů. Na stole zůstalo rozmotané červené lano. Smotala jsem ho až večer.
 ## Kapitola desátá: Pohled
 
 Tomáš napsal v listopadu. Jen zprávu: *Budu koncem měsíce v Praze. Vzala bys ještě jedno focení? Nebo ne focení — spíš dokončení.*
@@ -1991,9 +1955,11 @@ Tomáš odjel v devět. U dveří mi podal USB. „Výběr. Asi deset snímků. 
 
 „Díky. Tomáši—"
 
-„Nemusíš." Zastavil mě zvednutou dlaní, mírně. „Minule jsem ti řekl, že ta ženská hledá. Dneska vypadáš jako někdo, kdo přestal hledat — ne že by našla, jen hledat přestalo bejt potřeba." Pohled mu na vteřinu sklouzl k Martinovi v pozadí a zpátky ke mně. „Buď na něj hodná. Vyhrál férově."
+„Nemusíš." Zastavil mě zvednutou dlaní. „Pošli mi adresu, až budeš vědět, kam s tiskem."
 
-Odešel. A já jsem za ním zavřela. Ten rok ho stál víc než kohokoli z nás — přítomnost, kterou mi dal jako první, teď splácí tím, že se na ni musí dívat zpovzdálí a fotit ji pro jiného.
+„Pošlu."
+
+Oba jsme věděli, že ji možná nikdy chtít nebude. Odešel dřív, než jsem stihla udělat z rozloučení větu.
 
 ---
 
@@ -2011,9 +1977,9 @@ Otevřela jsem snímky. Deset fotek. Žena, která ví, kde je — vědomě, i k
 
 „Vím."
 
-„Teď to slyším dobře." Vzal mě kolem ramen a chvíli jsme se dívali na tu fotku — na mě ostrou a na něj rozostřeného za mnou —, a já jsem v duchu skládala účet celého toho podzimu a vyšlo mi, že jsem za svoji ostrost zaplatila tím, že jeden člověk teď bude navždycky trochu rozostřený bolestí, a že se ten účet nedá vyrovnat, jen unést.
+„Teď to slyším dobře." Vzal mě kolem ramen.
 
-
+Na monitoru jsem byla ostrá já. Martin za mnou ne. Tomáš už v pokoji nebyl.
 ## Kapitola jedenáctá: Střecha
 
 Pozvánka přišla mailem koncem listopadu. Žádný název, žádná organizace — jen adresa v Žižkově, datum, čas a instrukce: *soukromá párty pro vyzvané, dress code volný, kapacita třicet, vstup párem nebo sólo ženou.* Pozval nás Filip.
@@ -2046,15 +2012,13 @@ Lucie se obrátila na mě. „A ty co děláš?"
 
 „Controlling. Firemní finance."
 
-„To musí být zajímavý. Vidíš, co se opravdu děje."
+„Takže hlídáš dospělý lidi, aby neutratili všechno za jednu blbost."
 
-„Přesný popis."
+„V zásadě."
 
-„Já dělám s muzikanty. Taky vidím, co se děje. Jen je to míň o číslech a víc o egu."
+„Já dělám s muzikanty. Totéž, jen ta blbost bývá synťák." Loktem zavadila o sklenici a zachytila ji až na hraně baru. „A někdy ji utratím já."
 
-„Podobný," řekla jsem. „Ego se v číslech schová. Ale nesedí."
-
-Zasmála se, a já jsem ji měla v tu chvíli ráda a žárlila na ni zároveň.
+Zasmála se první. Měla jsem ji v tu chvíli ráda a žárlila na ni zároveň.
 
 ---
 
@@ -2108,9 +2072,15 @@ Dana se usmála. „Tentokrát. To je dobrej kvalifikátor."
 
 Martin se ke mně přiblížil kolem jedenácté. „Lucie se ptala, jestli bysme měli zájem." Zastavil se. „My. Nebo… já. Ona to nechala na nás."
 
-Podívala jsem se na Lucii, která stála opodál a nespěchala s ničím, s tím berlínským klidem člověka zvyklého na prostor. Pak na Martina — a viděla jsem, že to chce. Ne kvůli mně. Sám. A tady to bylo — to, co celý rok dělal on, když jsem chtěla já.
+Podívala jsem se na Lucii. Pak na Martina — a viděla jsem, že to chce. Ne kvůli mně. Sám.
 
-„A ty chceš?" zeptala jsem se.
+Vzpomněla jsem si na Lenku a na svoje místo v rohu. Na pojistku, kterou ze mě udělali a kterou jsem se ochotně stala. Tentokrát jsem nechtěla hlídat, aby se dva lidé nepohnuli dál, než unesou.
+
+„Lucie," řekla jsem. „Chceš u toho mě, nebo mě jen sneseš?"
+
+Povytáhla obočí. „Chci tě poblíž. Ale jestli budeš dělat dozor, pošlu tě pro pití."
+
+„Fér." Otočila jsem se k Martinovi. „A ty chceš?"
 
 „Chci," řekl, a poprvé to neopřel o moje svolení. „Ale neudělám to, jestli ti to vezme víc, než ti to dá. Řekni pravdu, ne to velkorysý."
 
@@ -2148,10 +2118,6 @@ Zastavil před Holešovicemi. „Loft?"
 
 Nahoře zapnul tu malou lampu — tu, co jsem mu kdysi dala k gauči v noci, kdy spal sám, a co teď stála zase u okna, v nové poloze. Sedli jsme si na deku.
 
-„Víš, co si myslím?" Ukázal do rohu. „Ten kabel jako by sledoval celej rok."
-
-„Jo. Mně taky."
-
 Lehl si na záda, díval se do stropu, já vedle něj. Za oknem listopadová noc, řeka, tramvaj.
 
 „Co teď?" zeptal se.
@@ -2159,8 +2125,6 @@ Lehl si na záda, díval se do stropu, já vedle něj. Za oknem listopadová noc
 „Nevím," řekla jsem. „A poprvé mi to nevadí. Protože vím, že nevědět budem spolu. To je rozdíl oproti loňsku. Loni jsem nevěděla sama."
 
 Natáhl ruku a nakreslil mi prstem na hrudník ležatou osmičku, pomalu, znovu a znovu, tu položenou, bez konce, co se vrací k sobě. Ležela jsem na dece v Nelině loftu, vedle muže, kterého jsem si před devíti lety vzala a letos potkala podruhé. Kabel v rohu koukal do tmy. Přitáhla jsem se k Martinovi blíž a nechala ten prst kroužit dál.
-
-
 ## Kapitola dvanáctá: Trhlina
 
 Do loftu jsem přišla v listopadu, pár dní po střeše, a odemkla si vlastním klíčem jako celej rok. Nezazvonila jsem. Nikdy jsem nezvonila — klíče jsem měla od dubna a zvonek byl pro lidi, co klíče nemají.
@@ -2330,8 +2294,6 @@ Přikývla jsem. Nezeptala jsem se, jestli je to mezi náma v pořádku, protož
 „Jo." Skoro se usmála. „Zazvoň."
 
 Otevřela jsem dveře. Zavřela je za sebou a slyšela, jak zámek zapadl — z tý druhý strany, poprvý za celej rok. Klíče jsem měla v kapse. Držela jsem je v dlani, až se kov ohřál, celou cestu dolů po schodech a nepustila je, ani když jsem vyšla na ulici do vlhkýho listopadovýho chladu, kde už byla tma.
-
-
 ## Kapitola třináctá: Průsak
 
 Salon měl i všední večery. Bez DJ, bez barmanů, co uměli víc než čepovat — jen třicet lidí, tlumené světlo, člověk u vchodu, který odškrtával jména. První prosincový čtvrtek. Venku minus dva, uvnitř teplo a vosk ze svíček a někde pomeranč s hřebíčkem, jako by tu měl někdo na plotně svařák.
@@ -2462,11 +2424,9 @@ Martin míchal. Nechal ticho doběhnout, tak jak to umí.
 
 „Tak to budeme vědět." Postavil přede mě talíř. „Jez, než to vystydne."
 
-Vzala jsem vidličku. Za oknem svítila Praha, dole cvakla tramvaj do výhybky. Nevěděla jsem, jestli to unesu do jara, do léta, jak dlouho se dá žít s položkou, která je pořád živá a čeká, až ji někdo vytáhne nahoru. Nevěděla jsem to.
+Vzala jsem vidličku. Nevěděla jsem, jak dlouho se dá žít s položkou, která čeká, až ji někdo vytáhne nahoru.
 
-Jedla jsem.
-
-
+Jídlo stydlo. Jedla jsem.
 ## Kapitola třináctá a půl: Matka
 
 Maminka zavolala v pondělí, že ve středu přijede vlakem. Kupovat věci, co v České Lípě nejsou — marcipán z toho krámku u Prašné brány, látku na štědrovečerní ubrus, dárek pro tátu, o kterém nesmím říct ani slovo. A pak, na konci, jako přílepek k nákupnímu seznamu: „A chtěla jsem tě vidět."
@@ -2576,8 +2536,6 @@ Naskočilo nástupiště. Vzala tašku, tu, co nepustí. Objaly jsme se — mami
 Šla k nástupišti, mezi lidi. Ta šedá záda, ta taška. Vlak odjel v 9:32, přesně.
 
 Měla jsem volno až do oběda. Nešla jsem na tramvaj. Vyšla jsem z nádraží do šedého prosincového rána, dech se mi srážel v páru, zapnula si kabát ke krku a šla pěšky. Domů to bylo přes celé město. Šla jsem to celé.
-
-
 ## Kapitola čtrnáctá: Noc doma
 
 Mezi Vánoci a Silvestrem se čas doma rozpustí. Štědrý den jsme strávili sami — kapr od stánku na rohu, dva dárky, žádný stromek do stropu, protože pro dva se to nevyplatí. Na Štěpána jsme jeli do České Lípy; táta vylezl do schodů bokem a vyhrál to, máma smažila v novém hrnci a dvakrát řekla, že je lepší než ten starej. Vrátili jsme se a pak byly ty dny bez jména. Nikdo nikam nemusel. Lednička plná zbytků. Kočka spala půl dne na radiátoru.
@@ -2747,8 +2705,6 @@ Díval se z okna, jak nad Holešovicemi vylétají koule a padají. Chvíli nic.
 „Nejlíp se dělá, když nikdo nekouká."
 
 Zasmál se do skla, opřel se ramenem o mě. Venku nad městem třeskla poslední velká salva a pak řídly, jednotlivě, jak lidem docházely rachejtle. Seděli jsme na studené dlažbě, dokud nebylo skoro ticho, a pak jsem vstala a šla pro deku, aby nám nebyla zima.
-
-
 ## Kapitola patnáctá: Leden
 
 Volný den v lednu jsem si vzala naschvál. Ne abych něco vyřídila — na nic. Věděla jsem, že ho budu potřebovat, tak jak se v prosinci ví, že v lednu dojde světlo. Silvestr už z bytu vyprchal, jen v okně u sousedů ještě visel řetěz světýlek, co nikdo nesundal, a svítil i ráno, zbytečně, do šedivýho dne. Praha byla jako mat, bez odlesků, každá věc měla přesnej obrys. Přes noc napadla tenká vrstva sněhu a na střeše protějšího domu v ní byly stopy — pták, možná kočka, možná jen vítr. Seděla jsem v kuchyni s kávou bez cukru, s trochou mléka, a dívala se na ně.
@@ -2932,8 +2888,6 @@ Přemýšlela jsem.
 „Ne. Potřebuju ho tam, kde je."
 
 Martin přikývl. Natáhl ruku a nakreslil mi prstem na záda ležatou osmičku. Pomalu, znovu a znovu, bez konce, bez začátku. Kočka se mezi náma ani nepohnula.
-
-
 ## Kapitola šestnáctá: Workshop
 
 Byl únor, druhá sobota, a byt v Dejvicích, kde Karla vedla workshop, nebyl její — pronajatý prostor nad lékárnou, dvě místnosti spojené v jednu, radiátory přetopené tak, že první, co člověk udělal, bylo sundat svetr. Občas v nich cvaklo. Deset lidí kolem dlouhého stolu. V rohu termoska s kávou, papírové kelímky, cukr v sáčcích a mléko, které zatím nikdo nenalil. Karla u tabule, fixa v ruce, stříbrné vlasy krátce.
@@ -2984,7 +2938,7 @@ Starší muž, brýle pořád na špičce nosu: „A jak se to… domlouvá? To,
 
 „A funguje to?"
 
-„Funguje jenom tohle. Všechno ostatní je nádstavba."
+„Funguje jenom tohle. Všechno ostatní je nadstavba."
 
 Starší paní se poprvé ozvala. Mluvila k Martinovi. Jako by ženská odpověď u téhle otázky nestačila. „A vám… vám to nevadilo? Když vám to řekla."
 
@@ -3024,61 +2978,15 @@ Byla to moje věta. Dala jsem jí ji v říjnu, v loftu, přes kávu a přes jej
 
 ---
 
-O přestávce si lidi šli pro kávu do rohu. Kluk v mikině stál u okna a psal někomu do telefonu. Karla ke mně přišla s kelímkem.
-
-„Jde jim to," řekla. „Ptají se dobře."
-
-„Líp než já před rokem."
-
-„Vy ste se neptala. Vy ste počítala." Napila se. Chvíli jsme stály, dvě, u termosky, a bylo mezi námi to ticho, který jí nevadí a mně už taky ne.
-
-Zeptala jsem se jí potichu, aby to nebylo pro místnost: „Co jste nechtěla vidět vy? Tehdy, na začátku."
-
-Karla se nezarazila. Ženy, co si otázku kladly samy dost dlouho, se u ní nezarazí.
-
-„Že mám moc," řekla. „A bála jsem se jí. Ne že by byla špatná. Nevěděla jsem, jestli ji zasloužím."
-
-„A teď?"
-
-„Moc se nezasluhuje. Uznává se." Dopila. „Buď ji uznáte, nebo ne. Ona tam je tak jako tak."
-
-Postavila kelímek a šla svolat zbytek zpátky ke stolu.
-
----
-
-Po skončení se lidi trousili ven, natahovali si na chodbě bundy. Dívka vpředu si sbalila blok, na kterém teď něco bylo, a šla ke dveřím. Pak se otočila a vrátila se ke mně.
-
-„Promiňte. Mám ještě otázku."
-
-„Ptejte se."
-
-„Vy jste říkala, že jste šla první. A pak to Martinovi řekla. A on zůstal." Odmlčela se. „Jak jste věděla, že zůstane?"
-
-„Nevěděla jsem," řekla jsem.
-
-„A přesto jste mu řekla?"
-
-„Jo. Protože nebýt upřímná bylo horší než riziko, že odejde."
-
-Přikývla.
-
-„To je odvaha."
-
-„Nebo zoufalství," řekla jsem. „Tehdy jsem neznala rozdíl."
-
-Chtěla se zeptat na další, viděla jsem jí tu otázku *a teď?* na jazyku. Nezeptala se. Řekla jen díky a šla, a já jsem nevěděla, jak se jmenuje.
-
----
-
 Domů jsme šli pěšky. Bylo to pár zastávek tramvají, ale vzduch po přetopené místnosti chutnal studeně a ostře a únor byl někde na půl cesty do března. Chodníky suché, sníh jen ve stínu u zdí.
 
 Kolem prošla tramvaj, skřípla v oblouku a byla pryč. Martin si dal ruce do kapes. Nespěchal ani teď — čekal, až mu chodník ujde pod nohama tolik, kolik potřeboval.
 
-„Ta holka u dveří," řekl nakonec. „Co se ptala podruhý."
+„Ta holka, co se ptala jako první," řekl nakonec.
 
 „Jo."
 
-„Slyšel jsem to. Stál jsem kousek."
+„Pořád myslím na tu svoji odpověď. Že jsi důležitější než moje pohodlí."
 
 Nic jsem na to neřekla. Šli jsme dál, kolem lékárny, co už měla stažené mříže.
 
@@ -3103,19 +3011,23 @@ Nepřikývl hned. To se mi na něm líbilo, že nepřikývl hned.
 „Nevím. Je to pravdivější."
 
 Naskočila zelená. Vzal mě za ruku a přešli jsme.
-
-
 ## Kapitola šestnáctá a půl: Jaro
 
 Nela napsala ve středu: *Přijď v sobotu, jestli můžeš. Chci ti něco říct. Nic zlýho.*
 
 Došla jsem v sobotu kolem jedenácti. Před dveřma jsem se zastavila. Klíče jsem měla v kapse — od loňskýho dubna, skoro rok. Vytáhla jsem je, přehodila v dlani. Nechala je tam. Zvedla jsem ruku a zmáčkla zvonek.
 
-Chvíli ticho. Uvnitř krok. Bzučák.
+Chvíli ticho. Pak intercom zapraskal.
 
-Vešla jsem.
+„Ještě ne," řekla Nela. „Dej mi hodinu."
 
-Nela stála u okna se dvěma hrnkama kávy, jako by je nachystala přesně na tu chvíli, co zvoní zvonek. Loft byl za ní stejnej — velký okno skoro od podlahy, trám u stropu, deka složená v rohu. Podala mi hrnek.
+V jedenáct třicet jsme měly být na trhu na Míráku. Martin tam na mě čekal. Podívala jsem se na klíče v dlani; stačilo odemknout a vysvětlit jí, že už jsem tady.
+
+„Dobře," řekla jsem. „Přijdu ve dvanáct."
+
+Napsala jsem Martinovi, že trh nestihnu, a hodinu chodila kolem přístavu. Když jsem se vrátila, zazvonila jsem podruhé. Tentokrát se ozval bzučák.
+
+Nela stála u okna se dvěma hrnkama kávy. Loft byl za ní stejnej — velký okno skoro od podlahy, trám u stropu, deka složená v rohu. Podala mi hrnek.
 
 „Sedni si," řekla. „Nebudu chodit kolem."
 
@@ -3181,7 +3093,7 @@ Na Andělu vstala a vyšla ven. Dívala se přitom pod nohy, aby nezakopla o mez
 
 ---
 
-V neděli jsme jeli na Náměstí Míru, na trh pod kostelem. Stánky se sazenicema stály v řadě podél zábradlí, bedýnky s macešema, rajčatový sazenice v černých kelímkách, cedulky psaný fixou. Táhla od nich mokrá hlína a pošlapaná zeleň. Prodavačka v zelený zástěře, ruce od hlíny až po lokty, nám vysvětlovala, který rajčata jsou keříkový a který se musí vyvazovat. Martin poslouchal, jako by ho z toho zkoušeli.
+V neděli jsme se na Náměstí Míru vrátili spolu, na trh pod kostelem. Stánky se sazenicema stály v řadě podél zábradlí, bedýnky s macešema, rajčatový sazenice v černých kelímkách, cedulky psaný fixou. Táhla od nich mokrá hlína a pošlapaná zeleň. Prodavačka v zelený zástěře, ruce od hlíny až po lokty, nám vysvětlovala, který rajčata jsou keříkový a který se musí vyvazovat. Martin poslouchal, jako by ho z toho zkoušeli.
 
 Vzal dvě sazenice rajčat. Já jsem u vedlejšího stánku sáhla po bazalce, protože když jsem se jí dotkla, zavoněla ostře, skoro po hřebíčku.
 
@@ -3258,9 +3170,45 @@ Termín ležel přede mnou. Do léta. Nerozhodla jsem se u tý vody a nechtěla 
 Muž u mola dosložil plachtu, hodil si ji přes rameno a odešel po můstku k autu. Loď zůstala nahá, holý trup, lana srovnaný, připravená na vodu, jen ještě nikdo neodvázal. Voda jí pleskala o bok.
 
 Utrhla jsem jeden ten srolovanej list, promnula ho v prstech — byl lepkavej, mladej — a nechala ho spadnout dolů na hladinu. Chvíli plaval, pak ho vzal proud a odnesl ke druhýmu břehu. Otočila jsem se a šla nahoru zpátky do ulic.
-
-
 ## Kapitola sedmnáctá: Sicílie
+
+Týden před odletem si mě Kovář zavolal do kanceláře. Nechal mě stát; na stole měl vytištěnou prezentaci pro představenstvo, moje jméno přeškrtnuté modrou propiskou.
+
+„Odprezentuje to Radek," řekl.
+
+„Proč."
+
+Srovnal papíry o hranu stolu. „Po firmě se řeší vaše soukromí. Nevím, co je pravda, a vědět to nechci. Ale teď potřebuju, aby finance nevzbuzovaly otázky."
+
+„Čísla sedí?"
+
+„Sedí."
+
+„Tak otázky nevzbuzují finance."
+
+Podíval se konečně na mě. „Nedělejte z toho spor, Sašo. Příští kvartál."
+
+Příští kvartál byla věta bez ceny pro člověka, který o tenhle právě přišel. Vzala jsem prezentaci ze stolu, i když ji měl odprezentovat Radek. Byla moje.
+
+Na chodbě čekala Hana. Opřená o parapet, ruce založené.
+
+„Já to nebyla," řekla.
+
+„Kdo."
+
+„Nevím. David pustil v kuchyňce narážku. Pak už to žilo samo."
+
+„A HR?"
+
+„HR eviduje, co vedení udělalo. Ne co si šeptá kuchyňka." Řekla to pracovním hlasem. Pak tišeji: „Je mi to líto."
+
+„Mně taky."
+
+Vrátila jsem se ke stolu a otevřela notebook. V boční kapse brašny jsem prsty nahmatala malé kovové USB od Tomáše. Nosila jsem ho od listopadu, aniž jsem o tom věděla. Položila jsem ho vedle klávesnice. Deset fotografií, které nikdo v práci neuvidí, a prezentace, kterou neuvidí ode mě.
+
+USB jsem zamkla do zásuvky. Prezentaci poslala Radkovi bez průvodní věty.
+
+---
 
 Přistáli jsme v Palermu ve čtvrtek dopoledne. Červen — jinej vzduch než pražskej, hustší, cítit v něm citrusy, benzín a moře. Martin se zastavil na schůdcích z letadla, na těch kovovejch, co se rozpalují od slunce, a chvíli jenom stál.
 
@@ -3358,7 +3306,15 @@ Nechala jsem to dosednout. Vlna došla ke kameni a nedotáhla.
 
 „A v práci?"
 
-„V práci sedí ženská z HR, co ví, kde se scházím. Nezmizí. Čeká jako otevřená položka, na kterou nemám nápravný opatření."
+„Přišla jsem o kvartální prezentaci. Čísla byla moje, představenstvo ne. Kovář řekl, že finance nemají vzbuzovat otázky."
+
+Martin sebral další kamínek, ale nehodil ho. „Tohle jsi mi neřekla."
+
+„Nechtěla jsem, aby ses nabídl, že to spravíš."
+
+„Nabídl bych se."
+
+„Já vím."
 
 Martin chvíli mlčel. „To je hodně čísel."
 
@@ -3461,8 +3417,6 @@ Postavila jsem tašku v předsíni a nad ní, ve stoje, napsala Nele. Nepsala js
 *Neberu ho. Je tvůj — prodej, nebo nech. Já zazvoním, dokud bude kam zvonit.*
 
 Odeslala jsem to. Pak jsem zvedla tašku a šla ji vybalit.
-
-
 ## Posledně
 
 Adama jsem naposledy viděla v září, v kavárně v Dejvicích. Ne v loftu — v kavárně. Ten rozdíl mi tehdy přišel podstatný, i když bych ho nebyla uměla vysvětlit.
@@ -3630,4 +3584,3 @@ Venku bylo pozdní léto, dopoledne, ostré světlo a teplo, co po chladném sch
 ---
 
 *Finis.*
-

@@ -1,0 +1,36 @@
+body {
+  font-family: serif;
+  line-height: 1.45;
+  margin: 0;
+  orphans: 2;
+  widows: 2;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 35% 0 1.5em;
+  text-align: center;
+}
+
+h1 + p {
+  font-style: italic;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.45em;
+  margin: 0 0 2em;
+  page-break-before: always;
+  text-align: left;
+}
+
+p {
+  margin: 0 0 0.65em;
+  text-indent: 0;
+}
+
+hr {
+  border: 0;
+  height: 1.25em;
+  margin: 1em 0;
+}

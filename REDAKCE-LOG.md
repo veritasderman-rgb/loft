@@ -1255,3 +1255,58 @@ větné vrstvy (klišé/smysly/rytmus) nad novým textem, až autor řekne.
 Vše po commitech na větvi `claude/story-editing-authenticity-2t0ttv`
 (PR #18–21 + tento). `git log --oneline` = mapa zásahů po vrstvách;
 `git revert <hash>` vrací jednotlivé vrstvy. Originály v kořeni netknuté.
+
+---
+
+## REALIZACE KAPITOLOVÉHO AUDITU — dramaturgie až MOBI
+
+**Datum:** 2026-09-14. **Zdroj plánu:** `AUDIT-KAPITOL-A-UKOLY.md`.
+
+### Dramaturgické závazky
+
+- **Hana/práce (kap. 24):** riziko z Průsaku dostalo konkrétní následek.
+  Kancelářská narážka se rozšíří a Kovář stáhne Sašu z kvartální prezentace,
+  přestože její čísla sedí. Hana není původcem úniku a zůstává morálně
+  nejednoznačná, ne padouchem.
+- **Tomáš (kap. 15 → 24):** jeho rozloučení už nevysvětluje význam fotografie
+  třikrát. USB s deseti snímky se hmotně vrátí při pracovním následku a Saša
+  ho zamkne do zásuvky.
+- **Nela (kap. 23):** zvonění už není jen pochopené pravidlo. Nela Sašu nechá
+  hodinu čekat; Saša zruší plán s Martinem a neodemkne si vlastním klíčem.
+- **Lenka (kap. 13 → 16):** Sašina role pojistky při rozloučení se vrací na
+  střeše. Saša se Lucie přímo zeptá, zda je chtěná, nebo pouze trpěná.
+
+### Rozsah, dialogy a motivy
+
+- Lenka: 1 182 → 1 026 slov; odstraněna hotová teze o žárlivosti a dvojí
+  závěrečné vysvětlení.
+- Pouta: 1 472 → 1 338 slov; Karla mluví praktičtěji a odmítne udělat ze
+  Sašina správného zastavení „medaili“.
+- Pohled: 1 123 → 1 026 slov; Tomášovo rozloučení a konec fotografie jsou
+  ponechány v obrazu, ne přeloženy do účetní teze.
+- Workshop: 1 432 → 1 168 slov; odstraněna druhá mentorská definice moci a
+  opakující se otázka anonymní účastnice.
+- Sicílie: 1 449 → 1 678 slov; délka nyní odpovídá váze pracovního a
+  vztahového finále.
+- Trojúhelník: odstraněno explicitní vysvětlení „Tomáš je kabel“.
+- Střecha: odstraněn druhý výklad kabelu v jedné kapitole; Lucie dostala
+  praktický humor, drobnou neobratnost a vlastní hranici.
+- Průsak: tramvajová kóda nahrazena chladnoucím jídlem; otevřená položka
+  zůstává, ale scéna nekončí obvyklým zvukem.
+
+### Kánon, korektura a export
+
+- `_bible.md` přepsána jako jediný platný kánon bez historických profilů a
+  dodatku, který je přebíjel.
+- Opraven překlep `nádstavba` → `nadstavba`.
+- Přidána deterministická kontrola `tools/check_manuscript.py`: počet a pořadí
+  kapitol, nadpisy, konce řádků, mezery, známý překlep a přesná shoda exportu.
+- Přidán sestavovací skript `tools/build_ebook.sh` a e-knižní CSS. Skript vždy
+  znovu složí `_finalni.md`, převede Markdown do HTML a pomocí Calibre vytvoří
+  `dist/LOFT.mobi` s 25položkovým obsahem a českými metadaty.
+
+### Stav po zásahu
+
+Kanonický rukopis má 25 kapitol a `_finalni.md` přibližně 37 500 slov.
+Dramaturgické body auditu 1–11 jsou uzavřené. Externí betačtení a rozhodnutí
+o anotaci/žánrovém slibu zůstávají záměrně mimo automatickou redakci.

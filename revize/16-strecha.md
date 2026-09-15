@@ -30,15 +30,13 @@ Lucie se obrátila na mě. „A ty co děláš?"
 
 „Controlling. Firemní finance."
 
-„To musí být zajímavý. Vidíš, co se opravdu děje."
+„Takže hlídáš dospělý lidi, aby neutratili všechno za jednu blbost."
 
-„Přesný popis."
+„V zásadě."
 
-„Já dělám s muzikanty. Taky vidím, co se děje. Jen je to míň o číslech a víc o egu."
+„Já dělám s muzikanty. Totéž, jen ta blbost bývá synťák." Loktem zavadila o sklenici a zachytila ji až na hraně baru. „A někdy ji utratím já."
 
-„Podobný," řekla jsem. „Ego se v číslech schová. Ale nesedí."
-
-Zasmála se, a já jsem ji měla v tu chvíli ráda a žárlila na ni zároveň.
+Zasmála se první. Měla jsem ji v tu chvíli ráda a žárlila na ni zároveň.
 
 ---
 
@@ -92,9 +90,15 @@ Dana se usmála. „Tentokrát. To je dobrej kvalifikátor."
 
 Martin se ke mně přiblížil kolem jedenácté. „Lucie se ptala, jestli bysme měli zájem." Zastavil se. „My. Nebo… já. Ona to nechala na nás."
 
-Podívala jsem se na Lucii, která stála opodál a nespěchala s ničím, s tím berlínským klidem člověka zvyklého na prostor. Pak na Martina — a viděla jsem, že to chce. Ne kvůli mně. Sám. A tady to bylo — to, co celý rok dělal on, když jsem chtěla já.
+Podívala jsem se na Lucii. Pak na Martina — a viděla jsem, že to chce. Ne kvůli mně. Sám.
 
-„A ty chceš?" zeptala jsem se.
+Vzpomněla jsem si na Lenku a na svoje místo v rohu. Na pojistku, kterou ze mě udělali a kterou jsem se ochotně stala. Tentokrát jsem nechtěla hlídat, aby se dva lidé nepohnuli dál, než unesou.
+
+„Lucie," řekla jsem. „Chceš u toho mě, nebo mě jen sneseš?"
+
+Povytáhla obočí. „Chci tě poblíž. Ale jestli budeš dělat dozor, pošlu tě pro pití."
+
+„Fér." Otočila jsem se k Martinovi. „A ty chceš?"
 
 „Chci," řekl, a poprvé to neopřel o moje svolení. „Ale neudělám to, jestli ti to vezme víc, než ti to dá. Řekni pravdu, ne to velkorysý."
 
@@ -131,10 +135,6 @@ Zastavil před Holešovicemi. „Loft?"
 ---
 
 Nahoře zapnul tu malou lampu — tu, co jsem mu kdysi dala k gauči v noci, kdy spal sám, a co teď stála zase u okna, v nové poloze. Sedli jsme si na deku.
-
-„Víš, co si myslím?" Ukázal do rohu. „Ten kabel jako by sledoval celej rok."
-
-„Jo. Mně taky."
 
 Lehl si na záda, díval se do stropu, já vedle něj. Za oknem listopadová noc, řeka, tramvaj.
 

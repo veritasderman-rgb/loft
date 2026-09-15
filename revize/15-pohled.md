@@ -90,9 +90,11 @@ Tomáš odjel v devět. U dveří mi podal USB. „Výběr. Asi deset snímků. 
 
 „Díky. Tomáši—"
 
-„Nemusíš." Zastavil mě zvednutou dlaní, mírně. „Minule jsem ti řekl, že ta ženská hledá. Dneska vypadáš jako někdo, kdo přestal hledat — ne že by našla, jen hledat přestalo bejt potřeba." Pohled mu na vteřinu sklouzl k Martinovi v pozadí a zpátky ke mně. „Buď na něj hodná. Vyhrál férově."
+„Nemusíš." Zastavil mě zvednutou dlaní. „Pošli mi adresu, až budeš vědět, kam s tiskem."
 
-Odešel. A já jsem za ním zavřela. Ten rok ho stál víc než kohokoli z nás — přítomnost, kterou mi dal jako první, teď splácí tím, že se na ni musí dívat zpovzdálí a fotit ji pro jiného.
+„Pošlu."
+
+Oba jsme věděli, že ji možná nikdy chtít nebude. Odešel dřív, než jsem stihla udělat z rozloučení větu.
 
 ---
 
@@ -110,4 +112,6 @@ Otevřela jsem snímky. Deset fotek. Žena, která ví, kde je — vědomě, i k
 
 „Vím."
 
-„Teď to slyším dobře." Vzal mě kolem ramen a chvíli jsme se dívali na tu fotku — na mě ostrou a na něj rozostřeného za mnou —, a já jsem v duchu skládala účet celého toho podzimu a vyšlo mi, že jsem za svoji ostrost zaplatila tím, že jeden člověk teď bude navždycky trochu rozostřený bolestí, a že se ten účet nedá vyrovnat, jen unést.
+„Teď to slyším dobře." Vzal mě kolem ramen.
+
+Na monitoru jsem byla ostrá já. Martin za mnou ne. Tomáš už v pokoji nebyl.
