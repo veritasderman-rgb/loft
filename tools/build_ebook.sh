@@ -6,7 +6,7 @@ cd "$(dirname "$0")/.."
 
 SRC="_finalni.md"
 BUILD="build"
-OUT="dist"
+OUT="${LOFT_OUT:-dist}"
 mkdir -p "$BUILD" "$OUT"
 
 TITLE="LOFT"
@@ -44,8 +44,21 @@ OPTS=( --title "$TITLE" --authors "$AUTHOR" --language "$LANG"
   --level1-toc "//h:h2" --toc-title "Obsah"
   --page-breaks-before "//h:h2" --pretty-print )
 
+# Odstranit staré výstupy, ať se starý soubor nemůže vydávat za nově sestavený.
+rm -f "$OUT/LOFT.mobi" "$OUT/LOFT.epub"
+
+# MOBI (povinný výstup) — případné selhání shodí skript (set -e).
 QT_QPA_PLATFORM=offscreen ebook-convert "$BUILD/loft.xhtml" "$OUT/LOFT.mobi" "${OPTS[@]}" --mobi-file-type both
-QT_QPA_PLATFORM=offscreen ebook-convert "$BUILD/loft.xhtml" "$OUT/LOFT.epub" "${OPTS[@]}" >/dev/null 2>&1 || true
+
+# EPUB (bonus) — selhání nesmí projít tiše ani nechat starý soubor.
+if ! QT_QPA_PLATFORM=offscreen ebook-convert "$BUILD/loft.xhtml" "$OUT/LOFT.epub" "${OPTS[@]}" >/dev/null 2>&1; then
+  echo "VAROVÁNÍ: převod EPUB selhal — LOFT.epub nebyl vytvořen." >&2
+  rm -f "$OUT/LOFT.epub"
+fi
+
+# Ověření: MOBI musí existovat a být neprázdný.
+[ -s "$OUT/LOFT.mobi" ] || { echo "CHYBA: LOFT.mobi nevznikl." >&2; exit 1; }
 
 echo "Hotovo:"
-ls -l "$OUT"/LOFT.mobi "$OUT"/LOFT.epub 2>/dev/null || true
+ls -l "$OUT/LOFT.mobi"
+[ -f "$OUT/LOFT.epub" ] && ls -l "$OUT/LOFT.epub" || true
